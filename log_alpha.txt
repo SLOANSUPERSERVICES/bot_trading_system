@@ -1,0 +1,351 @@
+2026-10-02 19:47:07  ============================================================
+2026-10-02 19:47:07  ALPHA bot v1.0 starting — goal: $0.50/day on $5 max risk
+2026-10-02 19:47:07  ============================================================
+2026-10-02 19:47:07  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 19:47:07    BTC quote error: get_crypto_quote can only be called when logged in
+2026-10-02 19:47:07    ETH quote error: get_crypto_quote can only be called when logged in
+2026-10-02 19:47:07    SOL quote error: get_crypto_quote can only be called when logged in
+2026-10-02 19:47:07    AVAX quote error: get_crypto_quote can only be called when logged in
+2026-10-02 19:47:07    LINK quote error: get_crypto_quote can only be called when logged in
+2026-10-02 19:47:07    No position — scanning universe...
+2026-10-02 19:47:07    No qualifying entry found this cycle
+2026-10-02 19:47:07    daily_pnl=$0.0000
+2026-10-02 19:55:49  ============================================================
+2026-10-02 19:55:49  ALPHA bot v1.0 starting — goal: $0.50/day on $5 max risk
+2026-10-02 19:55:49  ============================================================
+2026-10-02 19:55:49  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 19:55:49    BTC quote error: get_crypto_quote can only be called when logged in
+2026-10-02 19:55:49    ETH quote error: get_crypto_quote can only be called when logged in
+2026-10-02 19:55:49    SOL quote error: get_crypto_quote can only be called when logged in
+2026-10-02 19:55:49    AVAX quote error: get_crypto_quote can only be called when logged in
+2026-10-02 19:55:49    LINK quote error: get_crypto_quote can only be called when logged in
+2026-10-02 19:55:49    No position — scanning universe...
+2026-10-02 19:55:49    No qualifying entry found this cycle
+2026-10-02 19:55:49    daily_pnl=$0.0000
+2026-10-02 19:59:03  ============================================================
+2026-10-02 19:59:03  ALPHA bot v1.0 starting — goal: $0.50/day on $5 max risk
+2026-10-02 19:59:03  ============================================================
+2026-10-02 19:59:03  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 19:59:07    No position — scanning universe...
+2026-10-02 19:59:07    BTC score=1/6  RSI=67.2  BB=[84431.6711, 84550.5715, 84669.4719]  mom=0.187%  vol=1.0x  spread=1.875%  consensus=0
+2026-10-02 19:59:08    ETH score=1/6  RSI=72.4  BB=[2662.8706, 2670.2623, 2677.6539]  mom=0.351%  vol=1.0x  spread=1.874%  consensus=0
+2026-10-02 19:59:08    SOL score=1/6  RSI=64.9  BB=[118.2565, 118.7252, 119.1939]  mom=0.358%  vol=1.0x  spread=1.861%  consensus=0
+2026-10-02 19:59:08    AVAX score=1/6  RSI=70.8  BB=[10.675, 10.811, 10.947]  mom=0.991%  vol=1.0x  spread=1.879%  consensus=1
+2026-10-02 19:59:09    LINK score=1/6  RSI=69.4  BB=[13.7138, 13.8138, 13.9138]  mom=0.66%  vol=1.0x  spread=1.9%  consensus=1
+2026-10-02 19:59:09    No qualifying entry found this cycle
+2026-10-02 19:59:09    daily_pnl=$0.0000
+2026-10-02 20:04:09  ============================================================
+2026-10-02 20:04:09  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 20:04:14    No position — scanning universe...
+2026-10-02 20:04:14    BTC score=1/6  RSI=63.5  BB=[84435.5743, 84558.6453, 84681.7162]  mom=0.216%  vol=1.0x  spread=1.871%  consensus=0
+2026-10-02 20:04:14    ETH score=1/6  RSI=66.6  BB=[2663.128, 2670.7465, 2678.365]  mom=0.392%  vol=1.0x  spread=1.87%  consensus=0
+2026-10-02 20:04:15    SOL score=1/6  RSI=60.7  BB=[118.2821, 118.747, 119.212]  mom=0.322%  vol=1.0x  spread=1.874%  consensus=0
+2026-10-02 20:04:15    AVAX score=1/6  RSI=69.5  BB=[10.6926, 10.8212, 10.9498]  mom=1.079%  vol=1.0x  spread=1.89%  consensus=1
+2026-10-02 20:04:15    LINK score=1/6  RSI=69.7  BB=[13.7235, 13.8209, 13.9183]  mom=0.74%  vol=1.0x  spread=1.914%  consensus=1
+2026-10-02 20:04:15    No qualifying entry found this cycle
+2026-10-02 20:04:15    daily_pnl=$0.0000
+2026-10-02 20:09:15  ============================================================
+2026-10-02 20:09:15  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 20:09:20    No position — scanning universe...
+2026-10-02 20:09:20    BTC score=1/6  RSI=63.3  BB=[84440.1283, 84566.1598, 84692.1912]  mom=0.242%  vol=1.0x  spread=1.871%  consensus=0
+2026-10-02 20:09:21    ETH score=1/6  RSI=69.4  BB=[2663.3506, 2671.3025, 2679.2544]  mom=0.465%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 20:09:21    SOL score=1/6  RSI=60.9  BB=[118.316, 118.7705, 119.225]  mom=0.39%  vol=1.0x  spread=1.868%  consensus=0
+2026-10-02 20:09:21    AVAX score=1/6  RSI=69.5  BB=[10.7139, 10.8315, 10.949]  mom=1.263%  vol=1.0x  spread=1.884%  consensus=1
+2026-10-02 20:09:22    LINK score=1/6  RSI=70.7  BB=[13.737, 13.8288, 13.9206]  mom=0.745%  vol=1.0x  spread=1.898%  consensus=1
+2026-10-02 20:09:22    No qualifying entry found this cycle
+2026-10-02 20:09:22    daily_pnl=$0.0000
+2026-10-02 20:14:22  ============================================================
+2026-10-02 20:14:22  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 20:14:25    No position — scanning universe...
+2026-10-02 20:14:26    BTC score=1/6  RSI=66.5  BB=[84437.2028, 84572.3978, 84707.5927]  mom=0.194%  vol=1.0x  spread=1.874%  consensus=0
+2026-10-02 20:14:26    ETH score=1/6  RSI=71.0  BB=[2663.3757, 2671.8202, 2680.2648]  mom=0.38%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 20:14:26    SOL score=1/6  RSI=65.1  BB=[118.3516, 118.8001, 119.2486]  mom=0.32%  vol=1.0x  spread=1.865%  consensus=0
+2026-10-02 20:14:27    AVAX score=1/6  RSI=73.4  BB=[10.726, 10.8412, 10.9563]  mom=1.07%  vol=1.0x  spread=1.885%  consensus=1
+2026-10-02 20:14:27    LINK score=1/6  RSI=74.8  BB=[13.7425, 13.8364, 13.9303]  mom=0.71%  vol=1.0x  spread=1.908%  consensus=1
+2026-10-02 20:14:27    No qualifying entry found this cycle
+2026-10-02 20:14:27    daily_pnl=$0.0000
+2026-10-02 20:19:27  ============================================================
+2026-10-02 20:19:27  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 20:19:31    No position — scanning universe...
+2026-10-02 20:19:31    BTC score=1/6  RSI=61.3  BB=[84441.7814, 84579.0302, 84716.2791]  mom=0.143%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 20:19:31    ETH score=1/6  RSI=73.1  BB=[2663.5735, 2672.449, 2681.3245]  mom=0.41%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 20:19:32    SOL score=-1/6  RSI=71.0  BB=[118.3752, 118.8403, 119.3055]  mom=0.509%  vol=1.0x  spread=1.875%  consensus=0
+2026-10-02 20:19:32    AVAX score=1/6  RSI=74.2  BB=[10.7372, 10.8505, 10.9639]  mom=0.753%  vol=1.0x  spread=1.889%  consensus=1
+2026-10-02 20:19:32    LINK score=1/6  RSI=74.5  BB=[13.7514, 13.8441, 13.9368]  mom=0.663%  vol=1.0x  spread=1.906%  consensus=1
+2026-10-02 20:19:32    No qualifying entry found this cycle
+2026-10-02 20:19:32    daily_pnl=$0.0000
+2026-10-02 20:24:32  ============================================================
+2026-10-02 20:24:32  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 20:24:36    No position — scanning universe...
+2026-10-02 20:24:36    BTC score=1/6  RSI=57.1  BB=[84447.9416, 84584.5608, 84721.1799]  mom=0.106%  vol=1.0x  spread=1.879%  consensus=0
+2026-10-02 20:24:37    ETH score=1/6  RSI=68.5  BB=[2663.8892, 2672.9735, 2682.0578]  mom=0.306%  vol=1.0x  spread=1.871%  consensus=0
+2026-10-02 20:24:37    SOL score=1/6  RSI=69.7  BB=[118.4018, 118.8771, 119.3524]  mom=0.37%  vol=1.0x  spread=1.876%  consensus=0
+2026-10-02 20:24:37    AVAX score=1/6  RSI=67.5  BB=[10.7494, 10.858, 10.9667]  mom=0.295%  vol=1.0x  spread=1.901%  consensus=0
+2026-10-02 20:24:38    LINK score=1/6  RSI=72.0  BB=[13.7599, 13.8508, 13.9417]  mom=0.201%  vol=1.0x  spread=1.913%  consensus=0
+2026-10-02 20:24:38    No qualifying entry found this cycle
+2026-10-02 20:24:38    daily_pnl=$0.0000
+2026-10-02 20:29:38  ============================================================
+2026-10-02 20:29:38  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 20:29:41    No position — scanning universe...
+2026-10-02 20:29:41    BTC score=1/6  RSI=55.0  BB=[84450.2047, 84587.181, 84724.1573]  mom=0.074%  vol=1.0x  spread=1.878%  consensus=0
+2026-10-02 20:29:42    ETH score=1/6  RSI=67.0  BB=[2664.216, 2673.4352, 2682.6545]  mom=0.214%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 20:29:42    SOL score=1/6  RSI=65.1  BB=[118.4213, 118.9031, 119.3849]  mom=0.184%  vol=1.0x  spread=1.871%  consensus=0
+2026-10-02 20:29:42    AVAX score=2/6  RSI=65.8  BB=[10.7632, 10.8647, 10.9663]  mom=0.323%  vol=1.0x  spread=1.892%  consensus=1
+2026-10-02 20:29:43    LINK score=1/6  RSI=72.7  BB=[13.7651, 13.8565, 13.9478]  mom=0.251%  vol=1.0x  spread=1.912%  consensus=0
+2026-10-02 20:29:43    No qualifying entry found this cycle
+2026-10-02 20:29:43    daily_pnl=$0.0000
+2026-10-02 20:34:43  ============================================================
+2026-10-02 20:34:43  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 20:34:47    No position — scanning universe...
+2026-10-02 20:34:47    BTC score=0/6  RSI=55.3  BB=[84452.4543, 84589.7772, 84727.1002]  mom=-0.005%  vol=1.0x  spread=1.876%  consensus=0
+2026-10-02 20:34:47    ETH score=1/6  RSI=68.4  BB=[2664.5355, 2673.9102, 2683.285]  mom=0.132%  vol=1.0x  spread=1.873%  consensus=0
+2026-10-02 20:34:48    SOL score=1/6  RSI=68.3  BB=[118.4347, 118.9338, 119.433]  mom=0.122%  vol=1.0x  spread=1.875%  consensus=0
+2026-10-02 20:34:48    AVAX score=1/6  RSI=62.2  BB=[10.7704, 10.8691, 10.9678]  mom=0.102%  vol=1.0x  spread=1.891%  consensus=0
+2026-10-02 20:34:49    LINK score=1/6  RSI=69.7  BB=[13.7722, 13.8618, 13.9515]  mom=0.216%  vol=1.0x  spread=1.913%  consensus=0
+2026-10-02 20:34:49    No qualifying entry found this cycle
+2026-10-02 20:34:49    daily_pnl=$0.0000
+2026-10-02 20:39:49  ============================================================
+2026-10-02 20:39:49  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 20:39:52    No position — scanning universe...
+2026-10-02 20:39:53    BTC score=1/6  RSI=58.3  BB=[84458.4404, 84595.0302, 84731.6201]  mom=0.025%  vol=1.0x  spread=1.874%  consensus=0
+2026-10-02 20:39:53    ETH score=1/6  RSI=71.4  BB=[2664.9527, 2674.4955, 2684.0383]  mom=0.228%  vol=1.0x  spread=1.868%  consensus=0
+2026-10-02 20:39:53    SOL score=1/6  RSI=63.3  BB=[118.4702, 118.9633, 119.4564]  mom=0.147%  vol=1.0x  spread=1.874%  consensus=0
+2026-10-02 20:39:54    AVAX score=1/6  RSI=57.5  BB=[10.7767, 10.8722, 10.9678]  mom=0.025%  vol=1.0x  spread=1.889%  consensus=0
+2026-10-02 20:39:54    LINK score=1/6  RSI=66.4  BB=[13.7794, 13.8664, 13.9535]  mom=0.288%  vol=1.0x  spread=1.929%  consensus=0
+2026-10-02 20:39:54    No qualifying entry found this cycle
+2026-10-02 20:39:54    daily_pnl=$0.0000
+2026-10-02 20:44:54  ============================================================
+2026-10-02 20:44:54  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 20:44:57    No position — scanning universe...
+2026-10-02 20:44:58    BTC score=1/6  RSI=60.4  BB=[84468.6747, 84602.1435, 84735.6123]  mom=0.041%  vol=1.0x  spread=1.874%  consensus=0
+2026-10-02 20:44:58    ETH score=1/6  RSI=74.4  BB=[2665.4964, 2675.2068, 2684.9171]  mom=0.292%  vol=1.0x  spread=1.868%  consensus=0
+2026-10-02 20:44:58    SOL score=1/6  RSI=69.3  BB=[118.5038, 119.0057, 119.5075]  mom=0.317%  vol=1.0x  spread=1.871%  consensus=0
+2026-10-02 20:44:59    AVAX score=1/6  RSI=63.4  BB=[10.7887, 10.8781, 10.9676]  mom=0.034%  vol=1.0x  spread=1.897%  consensus=0
+2026-10-02 20:44:59    LINK score=2/6  RSI=72.6  BB=[13.7902, 13.8737, 13.9573]  mom=0.457%  vol=1.0x  spread=1.917%  consensus=1
+2026-10-02 20:44:59    No qualifying entry found this cycle
+2026-10-02 20:44:59    daily_pnl=$0.0000
+2026-10-02 20:49:59  ============================================================
+2026-10-02 20:49:59  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 20:50:03    No position — scanning universe...
+2026-10-02 20:50:03    BTC score=0/6  RSI=57.4  BB=[84527.8175, 84620.201, 84712.5845]  mom=-0.033%  vol=1.0x  spread=1.878%  consensus=0
+2026-10-02 20:50:03    ETH score=1/6  RSI=66.2  BB=[2668.9964, 2676.7065, 2684.4166]  mom=0.111%  vol=1.0x  spread=1.868%  consensus=0
+2026-10-02 20:50:03    SOL score=1/6  RSI=58.5  BB=[118.6803, 119.0801, 119.4799]  mom=0.165%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 20:50:04    AVAX score=1/6  RSI=62.5  BB=[10.839, 10.892, 10.945]  mom=0.069%  vol=1.0x  spread=1.896%  consensus=0
+2026-10-02 20:50:04    LINK score=2/6  RSI=71.5  BB=[13.8241, 13.8897, 13.9554]  mom=0.429%  vol=1.0x  spread=1.913%  consensus=1
+2026-10-02 20:50:04    No qualifying entry found this cycle
+2026-10-02 20:50:04    daily_pnl=$0.0000
+2026-10-02 20:55:04  ============================================================
+2026-10-02 20:55:04  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 20:55:08    No position — scanning universe...
+2026-10-02 20:55:09    BTC score=0/6  RSI=52.2  BB=[84546.2066, 84625.205, 84704.2034]  mom=-0.042%  vol=1.0x  spread=1.875%  consensus=0
+2026-10-02 20:55:09    ETH score=1/6  RSI=57.4  BB=[2670.4394, 2677.189, 2683.9386]  mom=0.073%  vol=1.0x  spread=1.863%  consensus=0
+2026-10-02 20:55:09    SOL score=1/6  RSI=54.8  BB=[118.7446, 119.1016, 119.4587]  mom=0.151%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 20:55:10    AVAX score=1/6  RSI=65.3  BB=[10.8582, 10.8976, 10.937]  mom=0.263%  vol=1.0x  spread=1.902%  consensus=0
+2026-10-02 20:55:10    LINK score=2/6  RSI=63.9  BB=[13.8374, 13.8948, 13.9521]  mom=0.271%  vol=1.0x  spread=1.915%  consensus=1
+2026-10-02 20:55:10    No qualifying entry found this cycle
+2026-10-02 20:55:10    daily_pnl=$0.0000
+2026-10-02 21:00:10  ============================================================
+2026-10-02 21:00:10  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:00:14    No position — scanning universe...
+2026-10-02 21:00:14    BTC score=0/6  RSI=56.3  BB=[84564.1048, 84630.6685, 84697.2322]  mom=-0.01%  vol=1.0x  spread=1.876%  consensus=0
+2026-10-02 21:00:14    ETH score=1/6  RSI=60.8  BB=[2672.0348, 2677.7202, 2683.4057]  mom=0.072%  vol=1.0x  spread=1.873%  consensus=0
+2026-10-02 21:00:14    SOL score=1/6  RSI=53.5  BB=[118.8202, 119.1208, 119.4214]  mom=0.131%  vol=1.0x  spread=1.867%  consensus=0
+2026-10-02 21:00:15    AVAX score=1/6  RSI=66.8  BB=[10.8654, 10.9017, 10.9379]  mom=0.337%  vol=1.0x  spread=1.896%  consensus=0
+2026-10-02 21:00:15    LINK score=1/6  RSI=67.9  BB=[13.8506, 13.9006, 13.9506]  mom=0.376%  vol=1.0x  spread=1.922%  consensus=0
+2026-10-02 21:00:15    No qualifying entry found this cycle
+2026-10-02 21:00:15    daily_pnl=$0.0000
+2026-10-02 21:05:15  ============================================================
+2026-10-02 21:05:15  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:05:18    No position — scanning universe...
+2026-10-02 21:05:19    BTC score=0/6  RSI=56.6  BB=[84583.9642, 84635.8438, 84687.7233]  mom=-0.043%  vol=1.0x  spread=1.875%  consensus=0
+2026-10-02 21:05:19    ETH score=1/6  RSI=58.9  BB=[2673.4407, 2678.142, 2682.8433]  mom=0.019%  vol=1.0x  spread=1.869%  consensus=0
+2026-10-02 21:05:19    SOL score=1/6  RSI=54.3  BB=[118.8676, 119.135, 119.4024]  mom=0.047%  vol=1.0x  spread=1.869%  consensus=0
+2026-10-02 21:05:20    AVAX score=1/6  RSI=63.9  BB=[10.8679, 10.9038, 10.9398]  mom=-0.028%  vol=1.0x  spread=1.902%  consensus=1
+2026-10-02 21:05:20    LINK score=2/6  RSI=65.5  BB=[13.8525, 13.9032, 13.9539]  mom=0.128%  vol=1.0x  spread=1.928%  consensus=1
+2026-10-02 21:05:20    No qualifying entry found this cycle
+2026-10-02 21:05:20    daily_pnl=$0.0000
+2026-10-02 21:10:20  ============================================================
+2026-10-02 21:10:20  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:10:24    No position — scanning universe...
+2026-10-02 21:10:24    BTC score=0/6  RSI=49.6  BB=[84599.6292, 84638.4455, 84677.2618]  mom=-0.059%  vol=1.0x  spread=1.877%  consensus=0
+2026-10-02 21:10:24    ETH score=0/6  RSI=52.0  BB=[2674.2991, 2678.3518, 2682.4044]  mom=-0.113%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 21:10:25    SOL score=0/6  RSI=51.7  BB=[118.8805, 119.1393, 119.398]  mom=-0.197%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 21:10:25    AVAX score=0/6  RSI=58.0  BB=[10.8729, 10.9055, 10.9382]  mom=-0.265%  vol=1.0x  spread=1.913%  consensus=0
+2026-10-02 21:10:25    LINK score=0/6  RSI=55.1  BB=[13.8549, 13.9043, 13.9537]  mom=-0.109%  vol=1.0x  spread=1.925%  consensus=0
+2026-10-02 21:10:25    No qualifying entry found this cycle
+2026-10-02 21:10:25    daily_pnl=$0.0000
+2026-10-02 21:15:25  ============================================================
+2026-10-02 21:15:25  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:15:29    No position — scanning universe...
+2026-10-02 21:15:30    BTC score=0/6  RSI=50.9  BB=[84598.1652, 84637.9647, 84677.7643]  mom=-0.019%  vol=1.0x  spread=1.873%  consensus=0
+2026-10-02 21:15:30    ETH score=0/6  RSI=55.0  BB=[2674.6146, 2678.475, 2682.3354]  mom=-0.028%  vol=1.0x  spread=1.873%  consensus=0
+2026-10-02 21:15:30    SOL score=0/6  RSI=56.6  BB=[118.8815, 119.1407, 119.3998]  mom=-0.07%  vol=1.0x  spread=1.868%  consensus=0
+2026-10-02 21:15:30    AVAX score=1/6  RSI=61.0  BB=[10.8761, 10.9074, 10.9387]  mom=0.1%  vol=1.0x  spread=1.909%  consensus=0
+2026-10-02 21:15:31    LINK score=1/6  RSI=59.8  BB=[13.8586, 13.9066, 13.9547]  mom=0.097%  vol=1.0x  spread=1.931%  consensus=0
+2026-10-02 21:15:31    No qualifying entry found this cycle
+2026-10-02 21:15:31    daily_pnl=$0.0000
+2026-10-02 21:20:31  ============================================================
+2026-10-02 21:20:31  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:20:34    No position — scanning universe...
+2026-10-02 21:20:35    BTC score=1/6  RSI=58.8  BB=[84599.8237, 84640.2365, 84680.6493]  mom=0.056%  vol=1.0x  spread=1.873%  consensus=0
+2026-10-02 21:20:35    ETH score=1/6  RSI=60.5  BB=[2675.2493, 2678.769, 2682.2887]  mom=0.073%  vol=1.0x  spread=1.877%  consensus=0
+2026-10-02 21:20:36    SOL score=1/6  RSI=59.0  BB=[118.8932, 119.1514, 119.4095]  mom=0.055%  vol=1.0x  spread=1.868%  consensus=0
+2026-10-02 21:20:36    AVAX score=1/6  RSI=65.5  BB=[10.8798, 10.9108, 10.9418]  mom=0.336%  vol=1.0x  spread=1.896%  consensus=0
+2026-10-02 21:20:36    LINK score=1/6  RSI=65.3  BB=[13.865, 13.9114, 13.9578]  mom=0.286%  vol=1.0x  spread=1.933%  consensus=0
+2026-10-02 21:20:36    No qualifying entry found this cycle
+2026-10-02 21:20:36    daily_pnl=$0.0000
+2026-10-02 21:25:36  ============================================================
+2026-10-02 21:25:36  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:25:40    No position — scanning universe...
+2026-10-02 21:25:41    BTC score=1/6  RSI=54.4  BB=[84601.8914, 84641.247, 84680.6026]  mom=0.025%  vol=1.0x  spread=1.875%  consensus=0
+2026-10-02 21:25:41    ETH score=1/6  RSI=57.2  BB=[2676.005, 2679.004, 2682.003]  mom=0.01%  vol=1.0x  spread=1.871%  consensus=0
+2026-10-02 21:25:42    SOL score=0/6  RSI=53.9  BB=[118.9005, 119.1552, 119.41]  mom=-0.141%  vol=1.0x  spread=1.868%  consensus=0
+2026-10-02 21:25:42    AVAX score=2/6  RSI=63.9  BB=[10.8793, 10.9124, 10.9454]  mom=0.397%  vol=1.0x  spread=1.901%  consensus=1
+2026-10-02 21:25:42    LINK score=1/6  RSI=63.7  BB=[13.8707, 13.9153, 13.9599]  mom=0.3%  vol=1.0x  spread=1.926%  consensus=0
+2026-10-02 21:25:42    No qualifying entry found this cycle
+2026-10-02 21:25:42    daily_pnl=$0.0000
+2026-10-02 21:30:42  ============================================================
+2026-10-02 21:30:42  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:30:46    No position — scanning universe...
+2026-10-02 21:30:46    BTC score=1/6  RSI=54.4  BB=[84601.8172, 84640.3562, 84678.8953]  mom=0.001%  vol=1.0x  spread=1.875%  consensus=0
+2026-10-02 21:30:46    ETH score=0/6  RSI=57.9  BB=[2676.2761, 2679.1408, 2682.0054]  mom=-0.037%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 21:30:47    SOL score=0/6  RSI=52.8  BB=[118.9013, 119.1557, 119.4101]  mom=-0.079%  vol=1.0x  spread=1.865%  consensus=0
+2026-10-02 21:30:47    AVAX score=2/6  RSI=61.2  BB=[10.8802, 10.9137, 10.9472]  mom=0.482%  vol=1.0x  spread=1.899%  consensus=1
+2026-10-02 21:30:47    LINK score=1/6  RSI=61.0  BB=[13.8745, 13.9179, 13.9613]  mom=0.292%  vol=1.0x  spread=1.926%  consensus=0
+2026-10-02 21:30:47    No qualifying entry found this cycle
+2026-10-02 21:30:47    daily_pnl=$0.0000
+2026-10-02 21:35:47  ============================================================
+2026-10-02 21:35:47  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:35:51    No position — scanning universe...
+2026-10-02 21:35:52    BTC score=1/6  RSI=56.8  BB=[84602.9248, 84639.6095, 84676.2942]  mom=0.001%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 21:35:52    ETH score=0/6  RSI=59.3  BB=[2676.4336, 2679.2537, 2682.0739]  mom=-0.082%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 21:35:52    SOL score=0/6  RSI=54.1  BB=[118.914, 119.1611, 119.4081]  mom=-0.244%  vol=1.0x  spread=1.867%  consensus=0
+2026-10-02 21:35:53    AVAX score=2/6  RSI=58.9  BB=[10.8818, 10.9148, 10.9479]  mom=0.111%  vol=1.0x  spread=1.9%  consensus=1
+2026-10-02 21:35:53    LINK score=0/6  RSI=58.0  BB=[13.8809, 13.9204, 13.9599]  mom=-0.036%  vol=1.0x  spread=1.931%  consensus=0
+2026-10-02 21:35:53    No qualifying entry found this cycle
+2026-10-02 21:35:53    daily_pnl=$0.0000
+2026-10-02 21:40:53  ============================================================
+2026-10-02 21:40:53  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:40:56    No position — scanning universe...
+2026-10-02 21:40:57    BTC score=1/6  RSI=58.2  BB=[84602.3037, 84640.2912, 84678.2788]  mom=0.038%  vol=1.0x  spread=1.874%  consensus=0
+2026-10-02 21:40:57    ETH score=1/6  RSI=60.1  BB=[2676.9559, 2679.4745, 2681.9931]  mom=0.007%  vol=1.0x  spread=1.871%  consensus=0
+2026-10-02 21:40:57    SOL score=0/6  RSI=53.8  BB=[118.9458, 119.171, 119.3963]  mom=-0.146%  vol=1.0x  spread=1.87%  consensus=0
+2026-10-02 21:40:58    AVAX score=1/6  RSI=60.1  BB=[10.8844, 10.9165, 10.9486]  mom=0.173%  vol=1.0x  spread=1.897%  consensus=0
+2026-10-02 21:40:58    LINK score=0/6  RSI=59.1  BB=[13.888, 13.9231, 13.9582]  mom=-0.077%  vol=1.0x  spread=1.931%  consensus=0
+2026-10-02 21:40:58    No qualifying entry found this cycle
+2026-10-02 21:40:58    daily_pnl=$0.0000
+2026-10-02 21:45:58  ============================================================
+2026-10-02 21:45:58  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:46:02    No position — scanning universe...
+2026-10-02 21:46:02    BTC score=1/6  RSI=60.0  BB=[84600.6504, 84641.6113, 84682.5721]  mom=0.04%  vol=1.0x  spread=1.875%  consensus=0
+2026-10-02 21:46:02    ETH score=1/6  RSI=65.1  BB=[2676.9454, 2679.7295, 2682.5136]  mom=0.083%  vol=1.0x  spread=1.87%  consensus=0
+2026-10-02 21:46:03    SOL score=0/6  RSI=52.2  BB=[118.9808, 119.1797, 119.3786]  mom=-0.086%  vol=1.0x  spread=1.872%  consensus=0
+2026-10-02 21:46:03    AVAX score=0/6  RSI=53.4  BB=[10.886, 10.917, 10.9481]  mom=-0.004%  vol=1.0x  spread=1.878%  consensus=0
+2026-10-02 21:46:03    LINK score=1/6  RSI=62.0  BB=[13.8937, 13.9261, 13.9585]  mom=0.07%  vol=1.0x  spread=1.933%  consensus=0
+2026-10-02 21:46:03    No qualifying entry found this cycle
+2026-10-02 21:46:03    daily_pnl=$0.0000
+2026-10-02 21:51:03  ============================================================
+2026-10-02 21:51:03  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:51:07    No position — scanning universe...
+2026-10-02 21:51:08    BTC score=1/6  RSI=53.7  BB=[84602.3683, 84640.149, 84677.9297]  mom=0.038%  vol=1.0x  spread=1.877%  consensus=0
+2026-10-02 21:51:08    ETH score=1/6  RSI=57.6  BB=[2677.0673, 2679.8345, 2682.6017]  mom=0.095%  vol=1.0x  spread=1.874%  consensus=0
+2026-10-02 21:51:09    SOL score=0/6  RSI=48.2  BB=[118.9774, 119.1791, 119.3807]  mom=-0.061%  vol=1.0x  spread=1.87%  consensus=0
+2026-10-02 21:51:09    AVAX score=0/6  RSI=47.1  BB=[10.881, 10.9149, 10.9488]  mom=-0.367%  vol=1.0x  spread=1.903%  consensus=0
+2026-10-02 21:51:09    LINK score=1/6  RSI=60.1  BB=[13.8941, 13.928, 13.9618]  mom=0.192%  vol=1.0x  spread=1.932%  consensus=0
+2026-10-02 21:51:09    No qualifying entry found this cycle
+2026-10-02 21:51:09    daily_pnl=$0.0000
+2026-10-02 21:56:09  ============================================================
+2026-10-02 21:56:09  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 21:56:14    No position — scanning universe...
+2026-10-02 21:56:14    BTC score=0/6  RSI=50.7  BB=[84601.7403, 84638.9588, 84676.1772]  mom=-0.011%  vol=1.0x  spread=1.877%  consensus=0
+2026-10-02 21:56:14    ETH score=1/6  RSI=55.3  BB=[2677.0689, 2679.8365, 2682.6041]  mom=0.013%  vol=1.0x  spread=1.873%  consensus=0
+2026-10-02 21:56:15    SOL score=0/6  RSI=48.5  BB=[118.9606, 119.1665, 119.3724]  mom=-0.043%  vol=1.0x  spread=1.869%  consensus=0
+2026-10-02 21:56:15    AVAX score=0/6  RSI=51.1  BB=[10.8799, 10.9132, 10.9465]  mom=-0.307%  vol=1.0x  spread=1.897%  consensus=0
+2026-10-02 21:56:15    LINK score=1/6  RSI=62.6  BB=[13.8946, 13.9301, 13.9656]  mom=0.127%  vol=1.0x  spread=1.928%  consensus=0
+2026-10-02 21:56:15    No qualifying entry found this cycle
+2026-10-02 21:56:15    daily_pnl=$0.0000
+2026-10-02 22:01:15  ============================================================
+2026-10-02 22:01:15  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:01:19    No position — scanning universe...
+2026-10-02 22:01:20    BTC score=0/6  RSI=45.0  BB=[84596.6101, 84637.4708, 84678.3314]  mom=-0.051%  vol=1.0x  spread=1.874%  consensus=0
+2026-10-02 22:01:20    ETH score=0/6  RSI=47.1  BB=[2676.7625, 2679.749, 2682.7355]  mom=-0.076%  vol=1.0x  spread=1.868%  consensus=0
+2026-10-02 22:01:20    SOL score=4/6  RSI=41.1  BB=[118.9062, 119.1465, 119.3868]  mom=-0.206%  vol=1.0x  spread=1.869%  consensus=1
+2026-10-02 22:01:21    AVAX score=1/6  RSI=42.9  BB=[10.8714, 10.911, 10.9507]  mom=-0.545%  vol=1.0x  spread=1.902%  consensus=0
+2026-10-02 22:01:21    LINK score=0/6  RSI=52.9  BB=[13.8967, 13.9309, 13.965]  mom=-0.067%  vol=1.0x  spread=1.932%  consensus=0
+2026-10-02 22:01:21  [36m  BEST ENTRY: SOL score=4/6 @ $118.9039
+2026-10-02 22:01:22  [36m  BUY SOL $5.00  id=6ac07002…
+2026-10-02 22:01:22    Order 6ac07002… state=unconfirmed
+2026-10-02 22:01:25    Order 6ac07002… state=filled
+2026-10-02 22:01:25    daily_pnl=$0.0000
+2026-10-02 22:06:25  ============================================================
+2026-10-02 22:06:25  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:06:30    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$118.9132 pnl=-1.024% tier=0
+2026-10-02 22:11:30  ============================================================
+2026-10-02 22:11:30  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:11:34    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$118.8644 pnl=-1.065% tier=0
+2026-10-02 22:16:34  ============================================================
+2026-10-02 22:16:34  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:16:38    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.0833 pnl=-0.883% tier=0
+2026-10-02 22:21:38  ============================================================
+2026-10-02 22:21:38  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:21:41    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.0171 pnl=-0.938% tier=0
+2026-10-02 22:26:41  ============================================================
+2026-10-02 22:26:41  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:26:46    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.1582 pnl=-0.820% tier=0
+2026-10-02 22:31:46  ============================================================
+2026-10-02 22:31:46  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:31:50    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.1049 pnl=-0.865% tier=0
+2026-10-02 22:36:50  ============================================================
+2026-10-02 22:36:50  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:36:53    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.2038 pnl=-0.783% tier=0
+2026-10-02 22:41:53  ============================================================
+2026-10-02 22:41:53  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:41:58    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.1984 pnl=-0.787% tier=0
+2026-10-02 22:46:58  ============================================================
+2026-10-02 22:46:58  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:47:01    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.2794 pnl=-0.720% tier=0
+2026-10-02 22:52:01  ============================================================
+2026-10-02 22:52:01  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:52:06    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.3423 pnl=-0.667% tier=0
+2026-10-02 22:57:06  ============================================================
+2026-10-02 22:57:06  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 22:57:10    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.3470 pnl=-0.663% tier=0
+2026-10-02 23:02:11  ============================================================
+2026-10-02 23:02:11  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:02:14    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.3703 pnl=-0.644% tier=0
+2026-10-02 23:07:14  ============================================================
+2026-10-02 23:07:14  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:07:18    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.5103 pnl=-0.527% tier=0
+2026-10-02 23:12:18  ============================================================
+2026-10-02 23:12:18  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:12:22    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.2998 pnl=-0.703% tier=0
+2026-10-02 23:17:22  ============================================================
+2026-10-02 23:17:22  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:17:26    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.0933 pnl=-0.874% tier=0
+2026-10-02 23:22:26  ============================================================
+2026-10-02 23:22:26  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:22:30    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.1295 pnl=-0.844% tier=0
+2026-10-02 23:27:30  ============================================================
+2026-10-02 23:27:30  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:27:34    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.0311 pnl=-0.926% tier=0
+2026-10-02 23:32:34  ============================================================
+2026-10-02 23:32:34  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:32:38    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.0868 pnl=-0.880% tier=0
+2026-10-02 23:37:38  ============================================================
+2026-10-02 23:37:38  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:37:43    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$118.9646 pnl=-0.982% tier=0
+2026-10-02 23:42:43  ============================================================
+2026-10-02 23:42:43  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:42:47    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$118.9868 pnl=-0.963% tier=0
+2026-10-02 23:47:47  ============================================================
+2026-10-02 23:47:47  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:47:51    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.2347 pnl=-0.757% tier=0
+2026-10-02 23:52:51  ============================================================
+2026-10-02 23:52:51  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:52:54    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.2459 pnl=-0.747% tier=0
+2026-10-02 23:57:55  ============================================================
+2026-10-02 23:57:55  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-02 23:57:59    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.1549 pnl=-0.823% tier=0
+2026-10-03 00:02:59  ============================================================
+2026-10-03 00:02:59  ALPHA cycle — daily_pnl=$0.0000  goal_reached=False
+2026-10-03 00:03:03    POSITION: SOL qty=0.04170000 avg=$120.1439 price=$119.0972 pnl=-0.871% tier=0

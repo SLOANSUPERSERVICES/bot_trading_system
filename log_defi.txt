@@ -1,0 +1,735 @@
+2026-09-26 22:52:49,728  INFO  [32mAuthenticated (8490)
+2026-09-26 22:52:50,690  INFO  [32mBUY LINK $1.0 — Seed entry
+2026-09-26 22:52:51,798  INFO  [32mBUY AVAX $1.0 — Seed entry
+2026-09-26 22:52:52,641  INFO  Running — 23:52 ET | Ctrl+C to stop
+2026-09-27 00:01:13,640  INFO  DAILY RESET — spent $2.0
+2026-09-27 00:18:50,573  WARNING  [31mSELL AVAX 0.092975 — RSI 66.0
+2026-09-27 00:24:23,016  WARNING  [31mSELL AVAX 0.092975 — RSI 66.3
+2026-09-27 00:57:03,408  WARNING  [31mSELL LINK 0.070864 — RSI 66.3
+2026-09-27 01:02:35,386  WARNING  [31mSELL LINK 0.070864 — RSI 70.9
+2026-09-27 01:08:08,355  WARNING  [31mSELL LINK 0.070864 — RSI 86.0
+2026-09-27 03:42:26,685  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.69% RSI=42.7
+2026-09-27 03:47:58,672  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.68% RSI=42.2
+2026-09-27 03:59:02,124  INFO  [32mBUY LINK $1.0 — MOM reversal -0.85% RSI=43.6
+2026-09-27 05:27:30,417  WARNING  [31mSELL LINK 0.069731 — RSI 66.1
+2026-09-27 06:00:41,710  INFO  [32mBUY LINK $1.0 — MOM reversal +0.01% RSI=46.4
+2026-09-27 07:18:37,393  WARNING  [31mSELL AVAX 0.090147 — RSI 71.1
+2026-09-27 08:34:32,997  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.68% RSI=38.2
+2026-09-27 08:39:35,365  INFO  [32mBUY AVAX $1.0 — MOM reversal -1.08% RSI=36.1
+2026-09-27 09:18:18,489  WARNING  [31mSELL AVAX 0.091706 — RSI 69.7
+2026-09-27 10:56:52,476  WARNING  [31mSELL AVAX 0.091706 — RSI 66.4
+2026-09-27 11:01:54,479  WARNING  [31mSELL AVAX 0.091706 — RSI 65.1
+2026-09-27 11:06:56,389  WARNING  [31mSELL LINK 0.06973 — RSI 65.6
+2026-09-27 11:06:57,192  WARNING  [31mSELL AVAX 0.091706 — RSI 65.1
+2026-09-27 11:34:36,824  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.24% RSI=38.3
+2026-09-27 11:45:40,780  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.42% RSI=35.4
+2026-09-27 11:50:42,759  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.43% RSI=40.7
+2026-09-27 11:56:15,067  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.59% RSI=41.2
+2026-09-27 12:07:19,261  INFO  [32mBUY LINK $1.0 — MOM reversal -0.21% RSI=44.5
+2026-09-27 12:23:25,394  INFO  [32mBUY LINK $1.0 — MOM reversal -0.07% RSI=44.1
+2026-09-27 12:50:35,211  WARNING  [31mSELL AVAX 0.091471 — RSI 68.8
+2026-09-27 12:56:07,328  WARNING  [31mSELL AVAX 0.091471 — RSI 76.4
+2026-09-27 13:18:14,440  WARNING  [31mSELL LINK 0.07083 — RSI 68.8
+2026-09-27 13:18:15,279  WARNING  [31mSELL AVAX 0.091471 — RSI 68.6
+2026-09-27 13:51:26,253  INFO  [32mBUY LINK $1.0 — MOM reversal -0.12% RSI=47.1
+2026-09-27 14:02:30,156  INFO  [32mBUY LINK $1.0 — MOM reversal -0.07% RSI=46.8
+2026-09-27 14:47:04,141  ERROR  Price MATIC: HTTPSConnectionPool(host='nummus.robinhood.com', port=443): Read timed out. (read timeout=None)
+2026-09-27 14:52:37,523  INFO  [32mBUY AVAX $1.0 — MOM reversal +0.03% RSI=47.8
+2026-09-27 15:25:19,220  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.38% RSI=46.1
+2026-09-27 18:53:59,276  WARNING  [31mSELL LINK 0.070823 — RSI 68.7
+2026-09-27 19:26:39,755  WARNING  [31mSELL LINK 0.070823 — RSI 73.3
+2026-09-27 19:26:40,580  WARNING  [31mSELL AVAX 0.091027 — RSI 79.5
+2026-09-27 19:31:42,926  WARNING  [31mSELL AVAX 0.091027 — RSI 70.9
+2026-09-27 19:42:46,989  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.32% RSI=47.6
+2026-09-27 20:15:57,670  INFO  [32mBUY AVAX $1.0 — MOM reversal +0.07% RSI=46.5
+2026-09-27 20:38:04,913  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.55% RSI=45.8
+2026-09-27 20:49:08,890  INFO  [32mBUY LINK $1.0 — MOM reversal +0.43% RSI=45.7
+2026-09-27 21:05:14,889  INFO  [32mBUY LINK $1.0 — MOM reversal +0.19% RSI=44.8
+2026-09-28 00:01:11,567  INFO  DAILY RESET — spent $10.0
+2026-09-28 00:37:24,083  WARNING  [31mSELL AVAX 0.091954 — STOP $10.5488
+2026-09-28 01:38:16,139  WARNING  [31mSELL AVAX 0.091954 — STOP $10.5488
+2026-09-28 01:48:50,073  WARNING  [31mSELL AVAX 0.091954 — STOP $10.5488
+2026-09-28 04:04:34,697  WARNING  [31mSELL LINK 0.071145 — STOP $13.6342
+2026-09-29 00:01:11,120  INFO  DAILY RESET — spent $0.0
+2026-09-29 00:05:42,837  INFO  [32mBUY LINK $1.0 — MOM reversal -0.49% RSI=43.0
+2026-09-29 00:37:55,081  INFO  [32mBUY LINK $1.0 — MOM reversal -0.50% RSI=36.8
+2026-09-29 00:37:56,119  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.04% RSI=43.0
+2026-09-29 00:49:00,358  WARNING  [31mSELL AVAX 0.095883 — TARGET $10.5858
+2026-09-29 01:53:51,128  ERROR  Price MATIC: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-09-29 02:10:16,820  ERROR  Price MATIC: HTTPSConnectionPool(host='api.robinhood.com', port=443): Read timed out. (read timeout=None)
+2026-09-29 03:37:15,385  INFO  [32mBUY LINK $1.0 — MOM reversal -0.45% RSI=41.7
+2026-09-29 03:59:23,337  WARNING  [31mSELL LINK 0.066257 — TARGET $15.3191
+2026-09-29 04:14:59,815  INFO  [32mBUY AVAX $1.0 — MOM reversal -1.06% RSI=35.4
+2026-09-29 04:20:01,933  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.17% RSI=44.0
+2026-09-29 05:48:01,319  INFO  [32mBUY LINK $1.0 — MOM reversal -0.60% RSI=41.4
+2026-09-29 07:51:42,234  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.13% RSI=47.5
+2026-09-29 09:20:09,989  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.35% RSI=41.3
+2026-09-29 10:25:31,314  WARNING  [31mSELL LINK 0.0653 — STOP $14.8544
+2026-09-29 10:25:32,065  WARNING  [31mSELL AVAX 0.08593 — STOP $11.2883
+2026-09-30 00:01:08,118  INFO  DAILY RESET — spent $4.0
+2026-09-30 00:11:11,786  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.41% RSI=43.1
+2026-09-30 00:16:43,989  INFO  [32mBUY LINK $1.0 — MOM reversal -0.30% RSI=44.8
+2026-09-30 00:16:45,296  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.38% RSI=38.9
+2026-09-30 00:21:47,385  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.47% RSI=44.0
+2026-09-30 00:38:22,777  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.28% RSI=43.0
+2026-09-30 01:05:01,780  WARNING  [31mSELL LINK 0.069691 — RSI 65.2
+2026-09-30 04:25:39,046  WARNING  [31mSELL LINK 0.069691 — RSI 67.5
+2026-09-30 04:25:39,870  WARNING  [31mSELL AVAX 0.088585 — RSI 66.5
+2026-09-30 05:50:08,408  INFO  [32mBUY LINK $1.0 — MOM reversal +0.13% RSI=46.2
+2026-09-30 06:01:12,930  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.26% RSI=41.0
+2026-09-30 06:06:45,489  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.36% RSI=35.5
+2026-09-30 06:12:17,998  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.33% RSI=40.1
+2026-09-30 07:31:15,374  WARNING  [31mSELL LINK 0.069435 — RSI 71.7
+2026-09-30 07:31:16,270  WARNING  [31mSELL AVAX 0.089803 — RSI 67.3
+2026-09-30 08:38:09,373  INFO  [32mBUY AVAX $1.0 — MOM reversal -1.75% RSI=44.5
+2026-09-30 08:43:11,431  INFO  [32mBUY LINK $1.0 — MOM reversal -1.22% RSI=47.0
+2026-09-30 10:50:22,616  WARNING  [31mSELL AVAX 0.090326 — RSI 68.4
+2026-09-30 11:05:27,853  WARNING  [31mSELL AVAX 0.090326 — RSI 66.4
+2026-09-30 11:10:59,821  WARNING  [31mSELL AVAX 0.090326 — RSI 66.5
+2026-09-30 11:16:01,489  WARNING  [31mSELL LINK 0.06893 — RSI 65.3
+2026-09-30 11:16:02,284  WARNING  [31mSELL AVAX 0.090326 — RSI 65.0
+2026-09-30 11:21:34,355  WARNING  [31mSELL AVAX 0.090326 — RSI 67.1
+2026-09-30 12:24:24,347  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.20% RSI=42.1
+2026-09-30 12:34:58,007  INFO  [32mBUY LINK $1.0 — MOM reversal -0.41% RSI=40.1
+2026-09-30 16:19:18,872  WARNING  [31mSELL LINK 0.069758 — RSI 68.8
+2026-09-30 17:15:40,413  INFO  [32mBUY LINK $1.0 — MOM reversal -0.08% RSI=39.5
+2026-09-30 18:19:03,249  WARNING  [31mSELL AVAX 0.09096 — RSI 72.3
+2026-09-30 18:51:14,902  INFO  [32mBUY LINK $1.0 — MOM reversal -0.18% RSI=41.3
+2026-09-30 18:51:15,588  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.31% RSI=41.6
+2026-09-30 18:56:47,889  INFO  [32mBUY LINK $1.0 — MOM reversal -0.15% RSI=40.0
+2026-09-30 19:02:20,196  INFO  [32mBUY LINK $1.0 — MOM reversal -0.35% RSI=38.7
+2026-09-30 19:18:26,339  INFO  [32mBUY LINK $1.0 — MOM reversal -0.53% RSI=36.4
+2026-09-30 19:29:00,434  INFO  [32mBUY LINK $1.0 — MOM reversal -0.15% RSI=47.5
+2026-09-30 21:36:45,198  WARNING  [31mSELL AVAX 0.091458 — RSI 68.4
+2026-09-30 22:19:00,924  WARNING  [31mSELL LINK 0.069582 — RSI 70.0
+2026-09-30 22:35:37,126  WARNING  [31mSELL LINK 0.069582 — RSI 70.8
+2026-09-30 23:18:22,035  INFO  [32mBUY LINK $1.0 — MOM reversal +0.13% RSI=47.1
+2026-10-01 00:01:07,676  INFO  DAILY RESET — spent $10.0
+2026-10-01 00:11:11,620  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.00% RSI=47.6
+2026-10-01 00:16:43,683  INFO  [32mBUY AVAX $1.0 — MOM reversal +0.10% RSI=44.9
+2026-10-01 00:43:22,112  INFO  [32mBUY LINK $1.0 — MOM reversal +0.00% RSI=44.7
+2026-10-01 01:03:30,143  INFO  [32mBUY AVAX $1.0 — MOM reversal +0.28% RSI=45.1
+2026-10-01 04:00:02,984  WARNING  [31mSELL AVAX 0.089762 — RSI 67.4
+2026-10-01 04:21:10,210  WARNING  [31mSELL LINK 0.06909 — RSI 69.2
+2026-10-01 04:26:12,142  WARNING  [31mSELL LINK 0.06909 — RSI 81.2
+2026-10-01 04:42:47,829  INFO  [32mBUY AVAX $1.0 — MOM reversal +0.03% RSI=47.8
+2026-10-01 05:25:32,541  INFO  [32mBUY LINK $1.0 — MOM reversal -0.53% RSI=43.5
+2026-10-01 05:30:34,376  INFO  [32mBUY LINK $1.0 — MOM reversal -0.55% RSI=45.9
+2026-10-01 06:17:21,251  WARNING  [31mSELL LINK 0.070187 — RSI 75.7
+2026-10-01 06:22:53,472  WARNING  [31mSELL LINK 0.070187 — RSI 69.5
+2026-10-01 07:14:13,579  WARNING  [31mSELL AVAX 0.090568 — RSI 68.6
+2026-10-01 07:35:58,751  INFO  [32mBUY AVAX $1.0 — MOM reversal +0.17% RSI=46.2
+2026-10-01 07:41:01,353  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.01% RSI=47.8
+2026-10-01 07:57:06,918  INFO  [32mBUY LINK $1.0 — MOM reversal -0.17% RSI=45.9
+2026-10-01 13:13:28,016  WARNING  [31mSELL AVAX 0.090824 — RSI 75.3
+2026-10-01 13:19:00,215  WARNING  [31mSELL AVAX 0.090824 — RSI 69.7
+2026-10-01 13:51:12,172  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.43% RSI=46.8
+2026-10-01 13:56:14,523  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.36% RSI=47.8
+2026-10-01 14:11:49,963  WARNING  [31mSELL LINK 0.069694 — RSI 73.7
+2026-10-01 14:11:50,777  WARNING  [31mSELL AVAX 0.091291 — RSI 68.2
+2026-10-01 14:17:22,866  WARNING  [31mSELL AVAX 0.091291 — RSI 65.7
+2026-10-01 14:38:30,181  INFO  [32mBUY LINK $1.0 — MOM reversal -0.56% RSI=44.8
+2026-10-01 14:38:31,069  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.40% RSI=46.8
+2026-10-01 15:05:40,178  WARNING  [31mSELL LINK 0.069726 — RSI 65.1
+2026-10-01 15:53:27,102  WARNING  [31mSELL AVAX 0.091364 — RSI 66.3
+2026-10-01 17:56:38,830  WARNING  [31mSELL LINK 0.069726 — RSI 68.8
+2026-10-01 17:56:39,713  WARNING  [31mSELL AVAX 0.091364 — RSI 71.3
+2026-10-01 18:02:11,877  WARNING  [31mSELL AVAX 0.091364 — RSI 66.6
+2026-10-01 18:23:49,130  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.03% RSI=46.5
+2026-10-01 18:39:24,662  WARNING  [31mSELL LINK 0.069726 — RSI 65.9
+2026-10-01 19:11:06,148  INFO  [32mBUY LINK $1.0 — MOM reversal +0.03% RSI=44.9
+2026-10-01 19:16:09,185  WARNING  [31mSELL AVAX 0.091207 — RSI 65.1
+2026-10-01 19:31:44,505  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.08% RSI=45.5
+2026-10-01 21:11:49,426  WARNING  [31mSELL LINK 0.069973 — RSI 70.7
+2026-10-01 21:16:51,927  WARNING  [31mSELL LINK 0.069973 — RSI 77.3
+2026-10-01 21:16:52,557  WARNING  [31mSELL AVAX 0.091264 — RSI 66.6
+2026-10-01 21:22:24,727  WARNING  [31mSELL LINK 0.069973 — RSI 74.5
+2026-10-01 21:54:36,631  WARNING  [31mSELL AVAX 0.091264 — RSI 66.2
+2026-10-01 22:27:17,331  INFO  [32mBUY LINK $1.0 — MOM reversal -0.19% RSI=45.6
+2026-10-01 22:27:18,605  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.04% RSI=44.9
+2026-10-01 22:32:50,679  INFO  [32mBUY AVAX $1.0 — MOM reversal +0.40% RSI=47.4
+2026-10-01 22:38:22,958  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.05% RSI=46.7
+2026-10-01 23:27:09,770  WARNING  [31mSELL LINK 0.069635 — TARGET $14.576
+2026-10-01 23:27:10,543  WARNING  [31mSELL AVAX 0.091218 — TARGET $11.1271
+2026-10-01 23:32:43,457  WARNING  [31mSELL AVAX 0.091218 — TARGET $11.1271
+2026-10-01 23:37:45,517  WARNING  [31mSELL LINK 0.069635 — RSI 67.8
+2026-10-02 00:01:22,967  INFO  DAILY RESET — spent $14.0
+2026-10-02 00:41:55,684  ERROR  Price MATIC: HTTPSConnectionPool(host='nummus.robinhood.com', port=443): Read timed out. (read timeout=None)
+2026-10-02 00:41:56,742  INFO  [32mBUY LINK $1.0 — MOM reversal -0.45% RSI=37.0
+2026-10-02 00:41:57,468  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.64% RSI=36.2
+2026-10-02 00:46:59,607  INFO  [32mBUY LINK $1.0 — MOM reversal -0.63% RSI=41.4
+2026-10-02 00:52:32,000  INFO  [32mBUY LINK $1.0 — MOM reversal -0.88% RSI=39.4
+2026-10-02 01:03:36,331  INFO  [32mBUY LINK $1.0 — MOM reversal -0.90% RSI=37.2
+2026-10-02 01:42:20,183  INFO  [32mBUY LINK $1.0 — MOM reversal -0.74% RSI=38.8
+2026-10-02 03:35:58,017  WARNING  [31mSELL AVAX 0.090263 — RSI 65.1
+2026-10-02 03:40:59,739  WARNING  [31mSELL LINK 0.069356 — RSI 69.3
+2026-10-02 04:34:47,258  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.14% RSI=44.2
+2026-10-02 05:01:57,337  WARNING  [31mSELL AVAX 0.089937 — RSI 66.5
+2026-10-02 06:28:54,961  WARNING  [31mSELL LINK 0.069356 — RSI 65.1
+2026-10-02 06:33:56,758  WARNING  [31mSELL LINK 0.069356 — RSI 70.3
+2026-10-02 06:44:30,656  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.18% RSI=43.4
+2026-10-02 06:50:02,458  INFO  [32mBUY AVAX $1.0 — MOM reversal -0.24% RSI=41.1
+2026-10-02 07:00:36,297  INFO  [32mBUY LINK $1.0 — MOM reversal -0.09% RSI=44.4
+2026-10-02 13:37:51,235  WARNING  [31mSELL LINK 0.069468 — STOP $13.9633
+2026-10-02 13:37:52,148  WARNING  [31mSELL AVAX 0.089568 — STOP $10.8298
+2026-10-02 13:42:54,657  WARNING  [31mSELL AVAX 0.089568 — STOP $10.8298
+2026-10-02 13:47:56,894  WARNING  [31mSELL AVAX 0.089568 — STOP $10.8298
+2026-10-02 19:48:23  DEFI bot v4.1 starting
+2026-10-02 19:48:23  ============================================================
+2026-10-02 19:48:23  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 19:48:23    POL ERROR: get_crypto_quote can only be called when logged in
+Traceback (most recent call last):
+  File "C:\Users\camer\OneDrive\Documents\AI Apps\trading\scalper_defi.py", line 229, in run
+    quote  = rh.crypto.get_crypto_quote(sym)
+  File "C:\Users\camer\AppData\Local\Programs\Python\Python313\Lib\site-packages\robin_stocks\robinhood\helper.py", line 31, in login_wrapper
+    raise Exception('{} can only be called when logged in'.format(
+        func.__name__))
+Exception: get_crypto_quote can only be called when logged in
+2026-10-02 19:48:23    LINK ERROR: get_crypto_quote can only be called when logged in
+Traceback (most recent call last):
+  File "C:\Users\camer\OneDrive\Documents\AI Apps\trading\scalper_defi.py", line 229, in run
+    quote  = rh.crypto.get_crypto_quote(sym)
+  File "C:\Users\camer\AppData\Local\Programs\Python\Python313\Lib\site-packages\robin_stocks\robinhood\helper.py", line 31, in login_wrapper
+    raise Exception('{} can only be called when logged in'.format(
+        func.__name__))
+Exception: get_crypto_quote can only be called when logged in
+2026-10-02 19:48:23    AVAX ERROR: get_crypto_quote can only be called when logged in
+Traceback (most recent call last):
+  File "C:\Users\camer\OneDrive\Documents\AI Apps\trading\scalper_defi.py", line 229, in run
+    quote  = rh.crypto.get_crypto_quote(sym)
+  File "C:\Users\camer\AppData\Local\Programs\Python\Python313\Lib\site-packages\robin_stocks\robinhood\helper.py", line 31, in login_wrapper
+    raise Exception('{} can only be called when logged in'.format(
+        func.__name__))
+Exception: get_crypto_quote can only be called when logged in
+2026-10-02 19:48:23  State saved. daily_total=$5.00
+2026-10-02 19:55:39  DEFI bot v4.1 starting
+2026-10-02 19:55:39  ============================================================
+2026-10-02 19:55:39  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 19:55:40    POL $0.1077  spread=0.00%  qty=0.000000
+2026-10-02 19:55:40    POL momentum=0.304%  pnl=0.00%
+2026-10-02 19:55:40    POL consensus=1/3
+2026-10-02 19:55:41  [36m  BUY POL $1.00  [mom=0.304%]  order_id=?…
+2026-10-02 19:55:41    POL buy order had no id — state NOT updated
+2026-10-02 19:55:41    LINK $13.8737  spread=1.90%  qty=0.000000
+2026-10-02 19:55:42    LINK momentum=0.660%  pnl=0.00%
+2026-10-02 19:55:42    LINK consensus=1/3
+2026-10-02 19:55:42    AVAX $10.9038  spread=1.88%  qty=0.000000
+2026-10-02 19:55:42    AVAX momentum=0.989%  pnl=0.00%
+2026-10-02 19:55:42    AVAX consensus=1/3
+2026-10-02 19:55:42  State saved. daily_total=$5.00
+2026-10-02 19:57:15  DEFI bot v4.1 starting
+2026-10-02 19:57:15  ============================================================
+2026-10-02 19:57:15  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 19:57:16    POL $0.1077  spread=0.00%  qty=0.000000
+2026-10-02 19:57:17    POL momentum=0.304%  pnl=0.00%
+2026-10-02 19:57:17    POL consensus=1/3
+2026-10-02 19:57:17  [36m  BUY POL $1.00  [mom=0.304%]  order_id=?…
+2026-10-02 19:57:17    POL buy order had no id — state NOT updated
+2026-10-02 19:57:18    LINK $13.8760  spread=1.90%  qty=0.000000
+2026-10-02 19:57:18    LINK momentum=0.660%  pnl=0.00%
+2026-10-02 19:57:18    LINK consensus=1/3
+2026-10-02 19:57:18    AVAX $10.9158  spread=1.88%  qty=0.000000
+2026-10-02 19:57:19    AVAX momentum=0.989%  pnl=0.00%
+2026-10-02 19:57:19    AVAX consensus=1/3
+2026-10-02 19:57:19  State saved. daily_total=$5.00
+2026-10-02 20:00:42  ============================================================
+2026-10-02 20:00:42  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:00:43    POL $0.1077  spread=0.00%  qty=0.000000
+2026-10-02 20:00:44    POL momentum=0.269%  pnl=0.00%
+2026-10-02 20:00:44    LINK $13.8833  spread=1.89%  qty=0.000000
+2026-10-02 20:00:45    LINK momentum=0.733%  pnl=0.00%
+2026-10-02 20:00:45    LINK consensus=1/3
+2026-10-02 20:00:45    AVAX $10.9022  spread=1.87%  qty=0.000000
+2026-10-02 20:00:45    AVAX momentum=1.079%  pnl=0.00%
+2026-10-02 20:00:45    AVAX consensus=1/3
+2026-10-02 20:00:45  State saved. daily_total=$5.00
+2026-10-02 20:05:45  ============================================================
+2026-10-02 20:05:45  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:05:46    POL $0.1077  spread=0.00%  qty=0.000000
+2026-10-02 20:05:47    POL momentum=0.694%  pnl=0.00%
+2026-10-02 20:05:47    POL consensus=1/3
+2026-10-02 20:05:47  [36m  BUY POL $1.00  [mom=0.694%]  order_id=?…
+2026-10-02 20:05:47    POL buy order had no id — state NOT updated
+2026-10-02 20:05:47    LINK $13.8830  spread=1.91%  qty=0.000000
+2026-10-02 20:05:48    LINK momentum=0.745%  pnl=0.00%
+2026-10-02 20:05:48    LINK consensus=1/3
+2026-10-02 20:05:48    AVAX $10.8941  spread=1.89%  qty=0.000000
+2026-10-02 20:05:48    AVAX momentum=1.263%  pnl=0.00%
+2026-10-02 20:05:48    AVAX consensus=1/3
+2026-10-02 20:05:48  State saved. daily_total=$5.00
+2026-10-02 20:10:48  ============================================================
+2026-10-02 20:10:48  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:10:49    POL $0.1078  spread=0.00%  qty=0.000000
+2026-10-02 20:10:50    POL momentum=0.497%  pnl=0.00%
+2026-10-02 20:10:50    POL consensus=1/3
+2026-10-02 20:10:50  [36m  BUY POL $1.00  [mom=0.497%]  order_id=?…
+2026-10-02 20:10:50    POL buy order had no id — state NOT updated
+2026-10-02 20:10:50    LINK $13.9160  spread=1.90%  qty=0.000000
+2026-10-02 20:10:51    LINK momentum=0.710%  pnl=0.00%
+2026-10-02 20:10:51    LINK consensus=1/3
+2026-10-02 20:10:51    AVAX $10.9416  spread=1.89%  qty=0.000000
+2026-10-02 20:10:51    AVAX momentum=1.070%  pnl=0.00%
+2026-10-02 20:10:51    AVAX consensus=1/3
+2026-10-02 20:10:51  State saved. daily_total=$5.00
+2026-10-02 20:15:51  ============================================================
+2026-10-02 20:15:51  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:15:52    POL $0.1081  spread=0.00%  qty=0.000000
+2026-10-02 20:15:53    POL momentum=0.730%  pnl=0.00%
+2026-10-02 20:15:53    POL consensus=1/3
+2026-10-02 20:15:53  [36m  BUY POL $1.00  [mom=0.730%]  order_id=?…
+2026-10-02 20:15:53    POL buy order had no id — state NOT updated
+2026-10-02 20:15:54    LINK $13.9156  spread=1.91%  qty=0.000000
+2026-10-02 20:15:54    LINK momentum=0.663%  pnl=0.00%
+2026-10-02 20:15:54    LINK consensus=1/3
+2026-10-02 20:15:54    AVAX $10.9550  spread=1.90%  qty=0.000000
+2026-10-02 20:15:55    AVAX momentum=0.750%  pnl=0.00%
+2026-10-02 20:15:55    AVAX consensus=1/3
+2026-10-02 20:15:55  State saved. daily_total=$5.00
+2026-10-02 20:20:55  ============================================================
+2026-10-02 20:20:55  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:20:56    POL $0.1079  spread=0.00%  qty=0.000000
+2026-10-02 20:20:56    POL momentum=0.395%  pnl=0.00%
+2026-10-02 20:20:56    POL consensus=1/3
+2026-10-02 20:20:56  [36m  BUY POL $1.00  [mom=0.395%]  order_id=?…
+2026-10-02 20:20:56    POL buy order had no id — state NOT updated
+2026-10-02 20:20:57    LINK $13.9107  spread=1.91%  qty=0.000000
+2026-10-02 20:20:57    LINK momentum=0.199%  pnl=0.00%
+2026-10-02 20:20:57    AVAX $10.9127  spread=1.89%  qty=0.000000
+2026-10-02 20:20:57    AVAX momentum=0.295%  pnl=0.00%
+2026-10-02 20:20:58  State saved. daily_total=$5.00
+2026-10-02 20:25:58  ============================================================
+2026-10-02 20:25:58  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:25:59    POL $0.1078  spread=0.00%  qty=0.000000
+2026-10-02 20:25:59    POL momentum=0.111%  pnl=0.00%
+2026-10-02 20:25:59    LINK $13.9119  spread=1.92%  qty=0.000000
+2026-10-02 20:25:59    LINK momentum=0.251%  pnl=0.00%
+2026-10-02 20:26:00    AVAX $10.8978  spread=1.89%  qty=0.000000
+2026-10-02 20:26:00    AVAX momentum=0.323%  pnl=0.00%
+2026-10-02 20:26:00    AVAX consensus=1/3
+2026-10-02 20:26:00  State saved. daily_total=$5.00
+2026-10-02 20:31:00  ============================================================
+2026-10-02 20:31:00  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:31:01    POL $0.1079  spread=0.00%  qty=0.000000
+2026-10-02 20:31:01    POL momentum=0.156%  pnl=0.00%
+2026-10-02 20:31:02    LINK $13.9023  spread=1.91%  qty=0.000000
+2026-10-02 20:31:02    LINK momentum=0.216%  pnl=0.00%
+2026-10-02 20:31:03    AVAX $10.8817  spread=1.89%  qty=0.000000
+2026-10-02 20:31:03    AVAX momentum=0.102%  pnl=0.00%
+2026-10-02 20:31:03  State saved. daily_total=$5.00
+2026-10-02 20:36:03  ============================================================
+2026-10-02 20:36:03  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:36:04    POL $0.1080  spread=0.00%  qty=0.000000
+2026-10-02 20:36:05    POL momentum=0.423%  pnl=0.00%
+2026-10-02 20:36:05    POL consensus=1/3
+2026-10-02 20:36:05  [36m  BUY POL $1.00  [mom=0.423%]  order_id=?…
+2026-10-02 20:36:05    POL buy order had no id — state NOT updated
+2026-10-02 20:36:06    LINK $13.9098  spread=1.91%  qty=0.000000
+2026-10-02 20:36:06    LINK momentum=0.288%  pnl=0.00%
+2026-10-02 20:36:06    AVAX $10.8915  spread=1.90%  qty=0.000000
+2026-10-02 20:36:07    AVAX momentum=0.035%  pnl=0.00%
+2026-10-02 20:36:07  State saved. daily_total=$5.00
+2026-10-02 20:41:07  ============================================================
+2026-10-02 20:41:07  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:41:08    POL $0.1082  spread=0.00%  qty=0.000000
+2026-10-02 20:41:08    POL momentum=0.423%  pnl=0.00%
+2026-10-02 20:41:08    POL consensus=1/3
+2026-10-02 20:41:08  [36m  BUY POL $1.00  [mom=0.423%]  order_id=?…
+2026-10-02 20:41:08    POL buy order had no id — state NOT updated
+2026-10-02 20:41:09    LINK $13.9426  spread=1.92%  qty=0.000000
+2026-10-02 20:41:09    LINK momentum=0.457%  pnl=0.00%
+2026-10-02 20:41:09    LINK consensus=1/3
+2026-10-02 20:41:09    AVAX $10.9059  spread=1.90%  qty=0.000000
+2026-10-02 20:41:10    AVAX momentum=0.028%  pnl=0.00%
+2026-10-02 20:41:10  State saved. daily_total=$5.00
+2026-10-02 20:46:10  ============================================================
+2026-10-02 20:46:10  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:46:11    POL $0.1081  spread=0.00%  qty=0.000000
+2026-10-02 20:46:11    POL momentum=0.403%  pnl=0.00%
+2026-10-02 20:46:11    POL consensus=1/3
+2026-10-02 20:46:12  [36m  BUY POL $1.00  [mom=0.403%]  order_id=?…
+2026-10-02 20:46:12    POL buy order had no id — state NOT updated
+2026-10-02 20:46:12    LINK $13.9397  spread=1.93%  qty=0.000000
+2026-10-02 20:46:13    LINK momentum=0.424%  pnl=0.00%
+2026-10-02 20:46:13    LINK consensus=1/3
+2026-10-02 20:46:13    AVAX $10.9038  spread=1.89%  qty=0.000000
+2026-10-02 20:46:13    AVAX momentum=0.056%  pnl=0.00%
+2026-10-02 20:46:13  State saved. daily_total=$5.00
+2026-10-02 20:51:13  ============================================================
+2026-10-02 20:51:13  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:51:14    POL $0.1080  spread=0.00%  qty=0.000000
+2026-10-02 20:51:15    POL momentum=0.399%  pnl=0.00%
+2026-10-02 20:51:15    POL consensus=1/3
+2026-10-02 20:51:15  [36m  BUY POL $1.00  [mom=0.399%]  order_id=?…
+2026-10-02 20:51:15    POL buy order had no id — state NOT updated
+2026-10-02 20:51:16    LINK $13.9393  spread=1.91%  qty=0.000000
+2026-10-02 20:51:16    LINK momentum=0.429%  pnl=0.00%
+2026-10-02 20:51:16    LINK consensus=1/3
+2026-10-02 20:51:16    AVAX $10.9190  spread=1.90%  qty=0.000000
+2026-10-02 20:51:17    AVAX momentum=0.069%  pnl=0.00%
+2026-10-02 20:51:17  State saved. daily_total=$5.00
+2026-10-02 20:56:17  ============================================================
+2026-10-02 20:56:17  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 20:56:18    POL $0.1080  spread=0.00%  qty=0.000000
+2026-10-02 20:56:18    POL momentum=0.346%  pnl=0.00%
+2026-10-02 20:56:18    POL consensus=1/3
+2026-10-02 20:56:19  [36m  BUY POL $1.00  [mom=0.346%]  order_id=?…
+2026-10-02 20:56:19    POL buy order had no id — state NOT updated
+2026-10-02 20:56:19    LINK $13.9238  spread=1.92%  qty=0.000000
+2026-10-02 20:56:19    LINK momentum=0.271%  pnl=0.00%
+2026-10-02 20:56:20    AVAX $10.9289  spread=1.90%  qty=0.000000
+2026-10-02 20:56:20    AVAX momentum=0.263%  pnl=0.00%
+2026-10-02 20:56:20  State saved. daily_total=$5.00
+2026-10-02 21:01:20  ============================================================
+2026-10-02 21:01:20  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:01:21    POL $0.1080  spread=0.00%  qty=0.000000
+2026-10-02 21:01:21    POL momentum=0.209%  pnl=0.00%
+2026-10-02 21:01:21    LINK $13.9428  spread=1.92%  qty=0.000000
+2026-10-02 21:01:22    LINK momentum=0.376%  pnl=0.00%
+2026-10-02 21:01:22    LINK consensus=1/3
+2026-10-02 21:01:22    AVAX $10.9426  spread=1.89%  qty=0.000000
+2026-10-02 21:01:22    AVAX momentum=0.337%  pnl=0.00%
+2026-10-02 21:01:22    AVAX consensus=1/3
+2026-10-02 21:01:22  State saved. daily_total=$5.00
+2026-10-02 21:06:22  ============================================================
+2026-10-02 21:06:22  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:06:23    POL $0.1081  spread=0.00%  qty=0.000000
+2026-10-02 21:06:24    POL momentum=0.303%  pnl=0.00%
+2026-10-02 21:06:24    POL consensus=1/3
+2026-10-02 21:06:24  [36m  BUY POL $1.00  [mom=0.303%]  order_id=?…
+2026-10-02 21:06:24    POL buy order had no id — state NOT updated
+2026-10-02 21:06:24    LINK $13.9264  spread=1.93%  qty=0.000000
+2026-10-02 21:06:25    LINK momentum=0.128%  pnl=0.00%
+2026-10-02 21:06:25    AVAX $10.8985  spread=1.90%  qty=0.000000
+2026-10-02 21:06:25    AVAX momentum=-0.028%  pnl=0.00%
+2026-10-02 21:06:25  State saved. daily_total=$5.00
+2026-10-02 21:11:25  ============================================================
+2026-10-02 21:11:25  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:11:26    POL $0.1079  spread=0.00%  qty=0.000000
+2026-10-02 21:11:26    POL momentum=-0.018%  pnl=0.00%
+2026-10-02 21:11:27    LINK $13.9074  spread=1.93%  qty=0.000000
+2026-10-02 21:11:27    LINK momentum=-0.109%  pnl=0.00%
+2026-10-02 21:11:27    AVAX $10.9007  spread=1.90%  qty=0.000000
+2026-10-02 21:11:27    AVAX momentum=-0.265%  pnl=0.00%
+2026-10-02 21:11:27  State saved. daily_total=$5.00
+2026-10-02 21:16:27  ============================================================
+2026-10-02 21:16:27  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:16:29    POL $0.1081  spread=0.00%  qty=0.000000
+2026-10-02 21:16:29    POL momentum=0.079%  pnl=0.00%
+2026-10-02 21:16:29    LINK $13.9235  spread=1.93%  qty=0.000000
+2026-10-02 21:16:29    LINK momentum=0.097%  pnl=0.00%
+2026-10-02 21:16:30    AVAX $10.9234  spread=1.89%  qty=0.000000
+2026-10-02 21:16:30    AVAX momentum=0.100%  pnl=0.00%
+2026-10-02 21:16:30  State saved. daily_total=$5.00
+2026-10-02 21:21:30  ============================================================
+2026-10-02 21:21:30  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:21:31    POL $0.1082  spread=0.00%  qty=0.000000
+2026-10-02 21:21:32    POL momentum=0.326%  pnl=0.00%
+2026-10-02 21:21:32    POL consensus=1/3
+2026-10-02 21:21:32  [36m  BUY POL $1.00  [mom=0.326%]  order_id=?…
+2026-10-02 21:21:32    POL buy order had no id — state NOT updated
+2026-10-02 21:21:32    LINK $13.9568  spread=1.92%  qty=0.000000
+2026-10-02 21:21:33    LINK momentum=0.286%  pnl=0.00%
+2026-10-02 21:21:33    AVAX $10.9518  spread=1.90%  qty=0.000000
+2026-10-02 21:21:34    AVAX momentum=0.336%  pnl=0.00%
+2026-10-02 21:21:34    AVAX consensus=1/3
+2026-10-02 21:21:34  State saved. daily_total=$5.00
+2026-10-02 21:26:34  ============================================================
+2026-10-02 21:26:34  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:26:35    POL $0.1081  spread=0.00%  qty=0.000000
+2026-10-02 21:26:35    POL momentum=0.179%  pnl=0.00%
+2026-10-02 21:26:36    LINK $13.9486  spread=1.93%  qty=0.000000
+2026-10-02 21:26:36    LINK momentum=0.300%  pnl=0.00%
+2026-10-02 21:26:36    AVAX $10.9411  spread=1.90%  qty=0.000000
+2026-10-02 21:26:37    AVAX momentum=0.397%  pnl=0.00%
+2026-10-02 21:26:37    AVAX consensus=1/3
+2026-10-02 21:26:37  State saved. daily_total=$5.00
+2026-10-02 21:31:37  ============================================================
+2026-10-02 21:31:37  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:31:38    POL $0.1081  spread=0.00%  qty=0.000000
+2026-10-02 21:31:38    POL momentum=0.141%  pnl=0.00%
+2026-10-02 21:31:38    LINK $13.9342  spread=1.94%  qty=0.000000
+2026-10-02 21:31:39    LINK momentum=0.292%  pnl=0.00%
+2026-10-02 21:31:39    AVAX $10.9342  spread=1.90%  qty=0.000000
+2026-10-02 21:31:39    AVAX momentum=0.482%  pnl=0.00%
+2026-10-02 21:31:39    AVAX consensus=1/3
+2026-10-02 21:31:39  State saved. daily_total=$5.00
+2026-10-02 21:36:39  ============================================================
+2026-10-02 21:36:39  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:36:40    POL $0.1082  spread=0.00%  qty=0.000000
+2026-10-02 21:36:41    POL momentum=0.126%  pnl=0.00%
+2026-10-02 21:36:41    LINK $13.9280  spread=1.93%  qty=0.000000
+2026-10-02 21:36:41    LINK momentum=-0.036%  pnl=0.00%
+2026-10-02 21:36:42    AVAX $10.9145  spread=1.90%  qty=0.000000
+2026-10-02 21:36:42    AVAX momentum=0.111%  pnl=0.00%
+2026-10-02 21:36:42  State saved. daily_total=$5.00
+2026-10-02 21:41:42  ============================================================
+2026-10-02 21:41:42  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:41:43    POL $0.1082  spread=0.00%  qty=0.000000
+2026-10-02 21:41:43    POL momentum=-0.031%  pnl=0.00%
+2026-10-02 21:41:44    LINK $13.9257  spread=1.93%  qty=0.000000
+2026-10-02 21:41:44    LINK momentum=-0.077%  pnl=0.00%
+2026-10-02 21:41:44    AVAX $10.9228  spread=1.90%  qty=0.000000
+2026-10-02 21:41:45    AVAX momentum=0.173%  pnl=0.00%
+2026-10-02 21:41:45  State saved. daily_total=$5.00
+2026-10-02 21:46:45  ============================================================
+2026-10-02 21:46:45  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:46:46    POL $0.1078  spread=0.00%  qty=0.000000
+2026-10-02 21:46:46    POL momentum=-0.069%  pnl=0.00%
+2026-10-02 21:46:46    LINK $13.9340  spread=1.93%  qty=0.000000
+2026-10-02 21:46:47    LINK momentum=0.070%  pnl=0.00%
+2026-10-02 21:46:47    AVAX $10.8857  spread=1.89%  qty=0.000000
+2026-10-02 21:46:47    AVAX momentum=-0.028%  pnl=0.00%
+2026-10-02 21:46:47  State saved. daily_total=$5.00
+2026-10-02 21:51:47  ============================================================
+2026-10-02 21:51:47  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:51:48    POL $0.1077  spread=0.00%  qty=0.000000
+2026-10-02 21:51:49    POL momentum=-0.320%  pnl=0.00%
+2026-10-02 21:51:49    LINK $13.9567  spread=1.93%  qty=0.000000
+2026-10-02 21:51:49    LINK momentum=0.192%  pnl=0.00%
+2026-10-02 21:51:50    AVAX $10.8847  spread=1.90%  qty=0.000000
+2026-10-02 21:51:50    AVAX momentum=-0.361%  pnl=0.00%
+2026-10-02 21:51:50  State saved. daily_total=$5.00
+2026-10-02 21:56:50  ============================================================
+2026-10-02 21:56:50  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 21:56:51    POL $0.1078  spread=0.00%  qty=0.000000
+2026-10-02 21:56:52    POL momentum=-0.121%  pnl=0.00%
+2026-10-02 21:56:52    LINK $13.9479  spread=1.93%  qty=0.000000
+2026-10-02 21:56:52    LINK momentum=0.127%  pnl=0.00%
+2026-10-02 21:56:53    AVAX $10.8816  spread=1.89%  qty=0.000000
+2026-10-02 21:56:53    AVAX momentum=-0.307%  pnl=0.00%
+2026-10-02 21:56:53  State saved. daily_total=$5.00
+2026-10-02 22:01:53  ============================================================
+2026-10-02 22:01:53  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:01:54    POL $0.1077  spread=0.00%  qty=0.000000
+2026-10-02 22:01:54    POL momentum=-0.320%  pnl=0.00%
+2026-10-02 22:01:54    LINK $13.9479  spread=1.93%  qty=0.000000
+2026-10-02 22:01:55    LINK momentum=-0.067%  pnl=0.00%
+2026-10-02 22:01:55    AVAX $10.8907  spread=1.91%  qty=0.000000
+2026-10-02 22:01:55    AVAX momentum=-0.547%  pnl=0.00%
+2026-10-02 22:01:55  State saved. daily_total=$5.00
+2026-10-02 22:06:55  ============================================================
+2026-10-02 22:06:55  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:06:57    POL $0.1076  spread=0.00%  qty=0.000000
+2026-10-02 22:06:57    POL momentum=-0.146%  pnl=0.00%
+2026-10-02 22:06:57    LINK $13.9263  spread=1.93%  qty=0.000000
+2026-10-02 22:06:58    LINK momentum=0.285%  pnl=0.00%
+2026-10-02 22:06:58    AVAX $10.8810  spread=1.90%  qty=0.000000
+2026-10-02 22:06:58    AVAX momentum=-0.307%  pnl=0.00%
+2026-10-02 22:06:58  State saved. daily_total=$5.00
+2026-10-02 22:11:58  ============================================================
+2026-10-02 22:11:58  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:11:59    POL $0.1077  spread=0.00%  qty=0.000000
+2026-10-02 22:12:00    POL momentum=-0.373%  pnl=0.00%
+2026-10-02 22:12:00    LINK $13.9292  spread=1.93%  qty=0.000000
+2026-10-02 22:12:01    LINK momentum=0.120%  pnl=0.00%
+2026-10-02 22:12:01    AVAX $10.9137  spread=1.89%  qty=0.000000
+2026-10-02 22:12:01    AVAX momentum=-0.103%  pnl=0.00%
+2026-10-02 22:12:01  State saved. daily_total=$5.00
+2026-10-02 22:17:01  ============================================================
+2026-10-02 22:17:01  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:17:02    POL $0.1079  spread=0.00%  qty=0.000000
+2026-10-02 22:17:03    POL momentum=-0.423%  pnl=0.00%
+2026-10-02 22:17:03    LINK $13.9490  spread=1.93%  qty=0.000000
+2026-10-02 22:17:03    LINK momentum=-0.245%  pnl=0.00%
+2026-10-02 22:17:04    AVAX $10.9282  spread=1.91%  qty=0.000000
+2026-10-02 22:17:04    AVAX momentum=-0.345%  pnl=0.00%
+2026-10-02 22:17:04  State saved. daily_total=$5.00
+2026-10-02 22:22:04  ============================================================
+2026-10-02 22:22:04  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:22:05    POL $0.1079  spread=0.00%  qty=0.000000
+2026-10-02 22:22:05    POL momentum=-0.204%  pnl=0.00%
+2026-10-02 22:22:05    LINK $13.9256  spread=1.93%  qty=0.000000
+2026-10-02 22:22:06    LINK momentum=-0.123%  pnl=0.00%
+2026-10-02 22:22:06    AVAX $10.9148  spread=1.90%  qty=0.000000
+2026-10-02 22:22:06    AVAX momentum=-0.113%  pnl=0.00%
+2026-10-02 22:22:06  State saved. daily_total=$5.00
+2026-10-02 22:27:06  ============================================================
+2026-10-02 22:27:06  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:27:07    POL $0.1079  spread=0.00%  qty=0.000000
+2026-10-02 22:27:08    POL momentum=-0.377%  pnl=0.00%
+2026-10-02 22:27:08    LINK $13.9468  spread=1.93%  qty=0.000000
+2026-10-02 22:27:08    LINK momentum=-0.110%  pnl=0.00%
+2026-10-02 22:27:09    AVAX $10.9201  spread=1.90%  qty=0.000000
+2026-10-02 22:27:09    AVAX momentum=-0.123%  pnl=0.00%
+2026-10-02 22:27:09  State saved. daily_total=$5.00
+2026-10-02 22:32:09  ============================================================
+2026-10-02 22:32:09  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:32:10    POL $0.1079  spread=0.00%  qty=0.000000
+2026-10-02 22:32:10    POL momentum=-0.269%  pnl=0.00%
+2026-10-02 22:32:11    LINK $13.9417  spread=1.93%  qty=0.000000
+2026-10-02 22:32:11    LINK momentum=0.042%  pnl=0.00%
+2026-10-02 22:32:11    AVAX $10.9197  spread=1.88%  qty=0.000000
+2026-10-02 22:32:11    AVAX momentum=-0.082%  pnl=0.00%
+2026-10-02 22:32:11  State saved. daily_total=$5.00
+2026-10-02 22:37:11  ============================================================
+2026-10-02 22:37:11  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:37:12    POL $0.1081  spread=0.00%  qty=0.000000
+2026-10-02 22:37:13    POL momentum=-0.038%  pnl=0.00%
+2026-10-02 22:37:13    LINK $13.9614  spread=1.93%  qty=0.000000
+2026-10-02 22:37:13    LINK momentum=0.162%  pnl=0.00%
+2026-10-02 22:37:14    AVAX $10.9334  spread=1.90%  qty=0.000000
+2026-10-02 22:37:14    AVAX momentum=0.143%  pnl=0.00%
+2026-10-02 22:37:14  State saved. daily_total=$5.00
+2026-10-02 22:42:14  ============================================================
+2026-10-02 22:42:14  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:42:15    POL $0.1081  spread=0.00%  qty=0.000000
+2026-10-02 22:42:15    POL momentum=0.127%  pnl=0.00%
+2026-10-02 22:42:16    LINK $13.9575  spread=1.93%  qty=0.000000
+2026-10-02 22:42:16    LINK momentum=0.104%  pnl=0.00%
+2026-10-02 22:42:17    AVAX $10.9338  spread=1.89%  qty=0.000000
+2026-10-02 22:42:17    AVAX momentum=0.245%  pnl=0.00%
+2026-10-02 22:42:17  State saved. daily_total=$5.00
+2026-10-02 22:47:17  ============================================================
+2026-10-02 22:47:17  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:47:18    POL $0.1081  spread=0.00%  qty=0.000000
+2026-10-02 22:47:18    POL momentum=0.379%  pnl=0.00%
+2026-10-02 22:47:18    POL consensus=1/3
+2026-10-02 22:47:19  [36m  BUY POL $1.00  [mom=0.379%]  order_id=?…
+2026-10-02 22:47:19    POL buy order had no id — state NOT updated
+2026-10-02 22:47:19    LINK $13.9613  spread=1.91%  qty=0.000000
+2026-10-02 22:47:19    LINK momentum=0.200%  pnl=0.00%
+2026-10-02 22:47:19    AVAX $10.9323  spread=1.89%  qty=0.000000
+2026-10-02 22:47:20    AVAX momentum=0.464%  pnl=0.00%
+2026-10-02 22:47:20    AVAX consensus=1/3
+2026-10-02 22:47:20  State saved. daily_total=$5.00
+2026-10-02 22:52:20  ============================================================
+2026-10-02 22:52:20  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:52:21    POL $0.1082  spread=0.00%  qty=0.000000
+2026-10-02 22:52:21    POL momentum=0.214%  pnl=0.00%
+2026-10-02 22:52:22    LINK $13.9498  spread=1.93%  qty=0.000000
+2026-10-02 22:52:22    LINK momentum=-0.072%  pnl=0.00%
+2026-10-02 22:52:22    AVAX $10.9345  spread=1.89%  qty=0.000000
+2026-10-02 22:52:23    AVAX momentum=0.323%  pnl=0.00%
+2026-10-02 22:52:23    AVAX consensus=1/3
+2026-10-02 22:52:23  State saved. daily_total=$5.00
+2026-10-02 22:57:23  ============================================================
+2026-10-02 22:57:23  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 22:57:24    POL $0.1081  spread=0.00%  qty=0.000000
+2026-10-02 22:57:24    POL momentum=0.319%  pnl=0.00%
+2026-10-02 22:57:24    POL consensus=1/3
+2026-10-02 22:57:25  [36m  BUY POL $1.00  [mom=0.319%]  order_id=?…
+2026-10-02 22:57:25    POL buy order had no id — state NOT updated
+2026-10-02 22:57:25    LINK $13.9428  spread=1.95%  qty=0.000000
+2026-10-02 22:57:26    LINK momentum=0.103%  pnl=0.00%
+2026-10-02 22:57:26    AVAX $10.9233  spread=1.91%  qty=0.000000
+2026-10-02 22:57:26    AVAX momentum=0.613%  pnl=0.00%
+2026-10-02 22:57:26    AVAX consensus=1/3
+2026-10-02 22:57:26  State saved. daily_total=$5.00
+2026-10-02 23:02:26  ============================================================
+2026-10-02 23:02:26  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:02:27    POL $0.1080  spread=0.00%  qty=0.000000
+2026-10-02 23:02:28    POL momentum=0.202%  pnl=0.00%
+2026-10-02 23:02:28    LINK $13.9495  spread=1.94%  qty=0.000000
+2026-10-02 23:02:28    LINK momentum=0.026%  pnl=0.00%
+2026-10-02 23:02:29    AVAX $10.9130  spread=1.91%  qty=0.000000
+2026-10-02 23:02:29    AVAX momentum=0.470%  pnl=0.00%
+2026-10-02 23:02:29    AVAX consensus=1/3
+2026-10-02 23:02:29  State saved. daily_total=$5.00
+2026-10-02 23:07:29  ============================================================
+2026-10-02 23:07:29  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:07:30    POL $0.1078  spread=0.00%  qty=0.000000
+2026-10-02 23:07:30    POL momentum=0.120%  pnl=0.00%
+2026-10-02 23:07:31    LINK $13.9408  spread=1.93%  qty=0.000000
+2026-10-02 23:07:31    LINK momentum=0.008%  pnl=0.00%
+2026-10-02 23:07:31    AVAX $10.8949  spread=1.89%  qty=0.000000
+2026-10-02 23:07:32    AVAX momentum=0.010%  pnl=0.00%
+2026-10-02 23:07:32  State saved. daily_total=$5.00
+2026-10-02 23:12:32  ============================================================
+2026-10-02 23:12:32  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:12:33    POL $0.1080  spread=0.00%  qty=0.000000
+2026-10-02 23:12:33    POL momentum=-0.041%  pnl=0.00%
+2026-10-02 23:12:33    LINK $13.9322  spread=1.94%  qty=0.000000
+2026-10-02 23:12:34    LINK momentum=0.046%  pnl=0.00%
+2026-10-02 23:12:34    AVAX $10.9004  spread=1.91%  qty=0.000000
+2026-10-02 23:12:35    AVAX momentum=-0.211%  pnl=0.00%
+2026-10-02 23:12:35  State saved. daily_total=$5.00
+2026-10-02 23:17:35  ============================================================
+2026-10-02 23:17:35  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:17:36    POL $0.1078  spread=0.00%  qty=0.000000
+2026-10-02 23:17:36    POL momentum=0.143%  pnl=0.00%
+2026-10-02 23:17:37    LINK $13.9159  spread=1.93%  qty=0.000000
+2026-10-02 23:17:37    LINK momentum=0.140%  pnl=0.00%
+2026-10-02 23:17:37    AVAX $10.8722  spread=1.89%  qty=0.000000
+2026-10-02 23:17:38    AVAX momentum=-0.088%  pnl=0.00%
+2026-10-02 23:17:38  State saved. daily_total=$5.00
+2026-10-02 23:22:38  ============================================================
+2026-10-02 23:22:38  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:22:39    POL $0.1077  spread=0.00%  qty=0.000000
+2026-10-02 23:22:39    POL momentum=0.046%  pnl=0.00%
+2026-10-02 23:22:39    LINK $13.8960  spread=1.93%  qty=0.000000
+2026-10-02 23:22:40    LINK momentum=-0.200%  pnl=0.00%
+2026-10-02 23:22:40    AVAX $10.8522  spread=1.89%  qty=0.000000
+2026-10-02 23:22:40    AVAX momentum=-0.460%  pnl=0.00%
+2026-10-02 23:22:40  State saved. daily_total=$5.00
+2026-10-02 23:27:40  ============================================================
+2026-10-02 23:27:40  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:27:42    POL $0.1076  spread=0.00%  qty=0.000000
+2026-10-02 23:27:42    POL momentum=-0.190%  pnl=0.00%
+2026-10-02 23:27:42    LINK $13.8976  spread=1.93%  qty=0.000000
+2026-10-02 23:27:43    LINK momentum=-0.143%  pnl=0.00%
+2026-10-02 23:27:43    AVAX $10.8454  spread=1.89%  qty=0.000000
+2026-10-02 23:27:43    AVAX momentum=-0.546%  pnl=0.00%
+2026-10-02 23:27:43  State saved. daily_total=$5.00
+2026-10-02 23:32:43  ============================================================
+2026-10-02 23:32:43  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:32:44    POL $0.1074  spread=0.00%  qty=0.000000
+2026-10-02 23:32:45    POL momentum=-0.649%  pnl=0.00%
+2026-10-02 23:32:45    LINK $13.9063  spread=1.93%  qty=0.000000
+2026-10-02 23:32:45    LINK momentum=-0.430%  pnl=0.00%
+2026-10-02 23:32:46    AVAX $10.8786  spread=1.89%  qty=0.000000
+2026-10-02 23:32:46    AVAX momentum=-0.833%  pnl=0.00%
+2026-10-02 23:32:46  State saved. daily_total=$5.00
+2026-10-02 23:37:46  ============================================================
+2026-10-02 23:37:46  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:37:47    POL $0.1072  spread=0.00%  qty=0.000000
+2026-10-02 23:37:48    POL momentum=-0.687%  pnl=0.00%
+2026-10-02 23:37:48    LINK $13.8828  spread=1.93%  qty=0.000000
+2026-10-02 23:37:49    LINK momentum=-0.578%  pnl=0.00%
+2026-10-02 23:37:49    AVAX $10.8664  spread=1.89%  qty=0.000000
+2026-10-02 23:37:49    AVAX momentum=-0.641%  pnl=0.00%
+2026-10-02 23:37:49  State saved. daily_total=$5.00
+2026-10-02 23:42:49  ============================================================
+2026-10-02 23:42:49  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:42:50    POL $0.1071  spread=0.00%  qty=0.000000
+2026-10-02 23:42:51    POL momentum=-0.806%  pnl=0.00%
+2026-10-02 23:42:51    LINK $13.8877  spread=1.92%  qty=0.000000
+2026-10-02 23:42:51    LINK momentum=-0.603%  pnl=0.00%
+2026-10-02 23:42:52    AVAX $10.8562  spread=1.89%  qty=0.000000
+2026-10-02 23:42:52    AVAX momentum=-0.602%  pnl=0.00%
+2026-10-02 23:42:52  State saved. daily_total=$5.00
+2026-10-02 23:47:52  ============================================================
+2026-10-02 23:47:52  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:47:53    POL $0.1073  spread=0.00%  qty=0.000000
+2026-10-02 23:47:53    POL momentum=-0.794%  pnl=0.00%
+2026-10-02 23:47:54    LINK $13.9438  spread=1.92%  qty=0.000000
+2026-10-02 23:47:54    LINK momentum=-0.281%  pnl=0.00%
+2026-10-02 23:47:54    AVAX $10.8904  spread=1.89%  qty=0.000000
+2026-10-02 23:47:55    AVAX momentum=-0.617%  pnl=0.00%
+2026-10-02 23:47:55  State saved. daily_total=$5.00
+2026-10-02 23:52:55  ============================================================
+2026-10-02 23:52:55  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:52:56    POL $0.1074  spread=0.00%  qty=0.000000
+2026-10-02 23:52:56    POL momentum=-0.553%  pnl=0.00%
+2026-10-02 23:52:56    LINK $13.9351  spread=1.92%  qty=0.000000
+2026-10-02 23:52:56    LINK momentum=0.068%  pnl=0.00%
+2026-10-02 23:52:57    AVAX $10.8951  spread=1.89%  qty=0.000000
+2026-10-02 23:52:57    AVAX momentum=-0.280%  pnl=0.00%
+2026-10-02 23:52:57  State saved. daily_total=$5.00
+2026-10-02 23:57:57  ============================================================
+2026-10-02 23:57:57  DEFI cycle — daily_spent=$5.00/15.00
+2026-10-02 23:57:58    POL $0.1073  spread=0.00%  qty=0.000000
+2026-10-02 23:57:59    POL momentum=-0.754%  pnl=0.00%
+2026-10-02 23:57:59    LINK $13.9355  spread=1.92%  qty=0.000000
+2026-10-02 23:57:59    LINK momentum=-0.084%  pnl=0.00%
+2026-10-02 23:58:00    AVAX $10.8762  spread=1.89%  qty=0.000000
+2026-10-02 23:58:00    AVAX momentum=-0.346%  pnl=0.00%
+2026-10-02 23:58:00  State saved. daily_total=$5.00
+2026-10-03 00:03:00  ============================================================
+2026-10-03 00:03:00  DEFI cycle — daily_spent=$0.00/15.00
+2026-10-03 00:03:01    POL $0.1072  spread=0.00%  qty=0.000000
+2026-10-03 00:03:01    POL momentum=-0.467%  pnl=0.00%
+2026-10-03 00:03:02    LINK $13.9361  spread=1.92%  qty=0.000000
+2026-10-03 00:03:02    LINK momentum=0.022%  pnl=0.00%
+2026-10-03 00:03:02    AVAX $10.8905  spread=1.89%  qty=0.000000
+2026-10-03 00:03:02    AVAX momentum=-0.242%  pnl=0.00%
+2026-10-03 00:03:02  State saved. daily_total=$0.00

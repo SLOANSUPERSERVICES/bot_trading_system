@@ -1,0 +1,5 @@
+2026-09-28 | P&L: $114.36 | Loss limit: False
+2026-09-29 | P&L: $0.0 | Loss limit: False
+2026-09-30 | P&L: $0.0 | Loss limit: False
+2026-10-01 | P&L: $0.0 | Loss limit: False
+2026-10-02 | P&L: $0.0 | Loss limit: False
