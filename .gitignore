@@ -1,0 +1,26 @@
+﻿# NEVER commit these
+.env
+.env.txt
+*.env
+
+# State files (local only)
+state_alpha.json
+state_defi.json
+state_macro.json
+state_momentum.json
+state/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ML models (large binary files)
+ml/models/
+
+# Log files
+log_alpha.txt
+log_defi.txt
+log_macro.txt
+log_momentum.txt
+logs/
