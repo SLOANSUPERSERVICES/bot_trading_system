@@ -32,28 +32,28 @@ else:
 
 # ── Config ────────────────────────────────────────────────────────────────────
 INSTANCE       = "DEFI"
-DAILY_CAP      = 15.00
+DAILY_CAP      = 30.00
 STATE_FILE     = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state_defi.json")
 CONSENSUS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "signal_consensus.json")
 LOG_FILE       = os.path.join(os.path.dirname(os.path.abspath(__file__)), "log_defi.txt")
 
 COINS = {
     "POL": {
-        "budget": 5.00, "tranche": 1.00,
+        "budget": 10.00, "tranche": 3.00,
         "target_pct": 0.015, "stop_pct": 0.025,
         "mom_bars": 12, "vol_mult": 1.5,
         "trail_pct": 0.005, "partial_pct": 0.010,
         "max_spread_pct": 0.030,
     },
     "LINK": {
-        "budget": 5.00, "tranche": 1.00,
+        "budget": 10.00, "tranche": 3.00,
         "target_pct": 0.015, "stop_pct": 0.025,
         "mom_bars": 12, "vol_mult": 1.5,
         "trail_pct": 0.005, "partial_pct": 0.010,
         "max_spread_pct": 0.025,
     },
     "AVAX": {
-        "budget": 5.00, "tranche": 1.00,
+        "budget": 10.00, "tranche": 3.00,
         "target_pct": 0.015, "stop_pct": 0.025,
         "mom_bars": 12, "vol_mult": 1.5,
         "trail_pct": 0.005, "partial_pct": 0.010,

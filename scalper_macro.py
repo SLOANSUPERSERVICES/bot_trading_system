@@ -39,12 +39,12 @@ logging.basicConfig(
 log = logging.getLogger(INSTANCE_NAME)
 
 ACCOUNT_NUMBER = "544378490"
-DAILY_CAP      = 10.00   # tighter cap — faster cycling strategy
+DAILY_CAP      = 30.00   # tighter cap — faster cycling strategy
 
 COINS = {
-    "BTC": {"budget": 5.00, "tranche": 1.00, "stop_pct": 0.015,
+    "BTC": {"budget": 10.00, "tranche": 3.00, "stop_pct": 0.015,
             "bb_period": 15, "bb_std": 1.8},
-    "ETH": {"budget": 5.00, "tranche": 1.00, "stop_pct": 0.015,
+    "ETH": {"budget": 10.00, "tranche": 3.00, "stop_pct": 0.015,
             "bb_period": 15, "bb_std": 1.8},
 }
 

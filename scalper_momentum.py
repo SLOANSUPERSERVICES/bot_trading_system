@@ -32,32 +32,32 @@ else:
 
 # ── Config ────────────────────────────────────────────────────────────────────
 INSTANCE        = "MOMENTUM"
-DAILY_CAP       = 15.00        # max $ spent per day across all coins
+DAILY_CAP       = 30.00        # max $ spent per day across all coins
 STATE_FILE      = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state_momentum.json")
 CONSENSUS_FILE  = os.path.join(os.path.dirname(os.path.abspath(__file__)), "signal_consensus.json")
 LOG_FILE        = os.path.join(os.path.dirname(os.path.abspath(__file__)), "log_momentum.txt")
 
 COINS = {
     "BTC": {
-        "budget": 5.00, "tranche": 1.00,
+        "budget": 10.00, "tranche": 3.00,
         "target_pct": 0.010, "stop_pct": 0.020,
-        "rsi_buy": 42, "rsi_sell": 55,
+        "rsi_buy": 35, "rsi_sell": 55,
         "bb_period": 20, "bb_std": 2.0,
         "trail_pct": 0.005, "partial_pct": 0.010,
         "max_spread_pct": 0.020,   # ← FIXED from 0.005 (actual spread ~1.87%)
     },
     "SOL": {
-        "budget": 5.00, "tranche": 1.00,
+        "budget": 10.00, "tranche": 3.00,
         "target_pct": 0.012, "stop_pct": 0.025,
-        "rsi_buy": 42, "rsi_sell": 55,
+        "rsi_buy": 35, "rsi_sell": 55,
         "bb_period": 20, "bb_std": 2.0,
         "trail_pct": 0.005, "partial_pct": 0.010,
         "max_spread_pct": 0.020,   # ← FIXED from 0.005 (actual spread ~1.87%)
     },
     "ETH": {
-        "budget": 5.00, "tranche": 1.00,
+        "budget": 10.00, "tranche": 3.00,
         "target_pct": 0.010, "stop_pct": 0.020,
-        "rsi_buy": 42, "rsi_sell": 55,
+        "rsi_buy": 35, "rsi_sell": 55,
         "bb_period": 20, "bb_std": 2.0,
         "trail_pct": 0.005, "partial_pct": 0.010,
         "max_spread_pct": 0.020,   # was already fixed in v4

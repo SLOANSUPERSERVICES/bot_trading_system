@@ -41,8 +41,8 @@ else:
 
 # ── Config ────────────────────────────────────────────────────────────────────
 INSTANCE        = "ALPHA"
-MAX_RISK        = 5.00          # max $ held at any moment
-DAILY_PROFIT_GOAL = 0.50        # stop trading for the day once locked
+MAX_RISK        = 10.00          # max $ held at any moment
+DAILY_PROFIT_GOAL = 1.00        # stop trading for the day once locked
 STATE_FILE      = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state_alpha.json")
 CONSENSUS_FILE  = os.path.join(os.path.dirname(os.path.abspath(__file__)), "signal_consensus.json")
 LOG_FILE        = os.path.join(os.path.dirname(os.path.abspath(__file__)), "log_alpha.txt")
