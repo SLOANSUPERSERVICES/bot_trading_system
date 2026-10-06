@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T06:43:49.339094+00:00",
+  "generated_at": "2026-10-06T06:48:51.218357+00:00",
   "summary": {
-    "total_pnl": -0.1574,
-    "total_wins": 42,
+    "total_pnl": -0.1517,
+    "total_wins": 43,
     "total_losses": 22,
     "active_bots": 4,
     "paused": false,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-06T01:42:28.572125-05:00",
+      "ts": "2026-10-06T01:47:31.752177-05:00",
       "session_pnl": 0.0,
       "daily_total": 0,
       "total_value": 10.0,
@@ -22,53 +22,43 @@
       "last_action": "HOLDING BTC",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-06 01:37:21  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-06 01:37:24    POSITION: BTC qty=0.00011600 avg=$86465.5172 price=$85286.8748 pnl=-1.363% tier=0",
-        "2026-10-06 01:42:24  ============================================================",
         "2026-10-06 01:42:24  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-06 01:42:28    POSITION: BTC qty=0.00011600 avg=$86465.5172 price=$85289.8206 pnl=-1.360% tier=0"
+        "2026-10-06 01:42:28    POSITION: BTC qty=0.00011600 avg=$86465.5172 price=$85289.8206 pnl=-1.360% tier=0",
+        "2026-10-06 01:47:28  ============================================================",
+        "2026-10-06 01:47:28  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
+        "2026-10-06 01:47:31    POSITION: BTC qty=0.00011600 avg=$86465.5172 price=$85356.4233 pnl=-1.283% tier=0"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-06T02:42:37.038012-04:00",
-      "session_pnl": 0.023,
+      "ts": "2026-10-06T02:48:08.864676-04:00",
+      "session_pnl": 0.0287,
       "daily_total": 6.0,
-      "total_value": 5.9945,
-      "trades": 2,
-      "wins": 4,
+      "total_value": 2.9947,
+      "trades": 3,
+      "wins": 5,
       "losses": 2,
-      "win_rate": 66.7,
-      "last_action": "BUY ETH",
+      "win_rate": 71.4,
+      "last_action": "SELL ETH",
       "open_positions": [
         {
           "sym": "BTC",
           "qty": 3.508346420279691e-05,
           "avg": 85510.369861,
-          "price": 85278.7208,
-          "value": 2.9919,
-          "pnl_pct": -0.27,
-          "last_action": "buy",
-          "budget_left": 7.0
-        },
-        {
-          "sym": "ETH",
-          "qty": 0.0011140153444517363,
-          "avg": 2692.961111,
-          "price": 2695.2888,
-          "value": 3.0026,
-          "pnl_pct": 0.09,
+          "price": 85358.1533,
+          "value": 2.9947,
+          "pnl_pct": -0.18,
           "last_action": "buy",
           "budget_left": 7.0
         }
       ],
       "recent_logs": [
-        "2026-10-06 00:01:26,808  INFO  DAILY RESET \ufffd spent $18.0",
         "2026-10-06 00:54:16,192  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $85515.17",
         "2026-10-06 00:59:49,745  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2699.14",
         "2026-10-06 01:05:21,863  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2696.97",
-        "2026-10-06 01:10:54,267  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2695.04"
+        "2026-10-06 01:10:54,267  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2695.04",
+        "2026-10-06 01:48:08,703  WARNING  \u001b[31mSELL ETH 0.00111402 \ufffd MID BAND $2696.92 (mean reversion)"
       ],
       "pnl_last_30": []
     },
@@ -116,10 +106,10 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-06T01:43:23.241375-05:00",
+      "ts": "2026-10-06T01:48:25.599979-05:00",
       "session_pnl": -0.1241,
       "daily_total": 0.0,
-      "total_value": 5.9914,
+      "total_value": 5.9911,
       "trades": 18,
       "wins": 29,
       "losses": 18,
@@ -130,9 +120,9 @@
           "sym": "LINK",
           "qty": 0.2147,
           "avg": 13.972986,
-          "price": 13.8243,
-          "value": 2.9681,
-          "pnl_pct": -1.064,
+          "price": 13.8383,
+          "value": 2.9711,
+          "pnl_pct": -0.964,
           "last_action": "buy",
           "budget_left": 10.0
         },
@@ -140,19 +130,19 @@
           "sym": "AVAX",
           "qty": 0.266,
           "avg": 11.278195,
-          "price": 11.3659,
-          "value": 3.0233,
-          "pnl_pct": 0.777,
+          "price": 11.3534,
+          "value": 3.02,
+          "pnl_pct": 0.666,
           "last_action": "buy",
           "budget_left": 10.0
         }
       ],
       "recent_logs": [
-        "2026-10-06 01:43:22    LINK $13.8243  spread=1.90%  qty=0.214700",
-        "2026-10-06 01:43:22    LINK momentum=-0.178%  pnl=-1.06%",
-        "2026-10-06 01:43:22    AVAX $11.3659  spread=1.86%  qty=0.266000",
-        "2026-10-06 01:43:23    AVAX momentum=0.356%  pnl=0.78%",
-        "2026-10-06 01:43:23  State saved. daily_total=$0.00"
+        "2026-10-06 01:48:24    LINK $13.8383  spread=1.91%  qty=0.214700",
+        "2026-10-06 01:48:24    LINK momentum=-0.082%  pnl=-0.96%",
+        "2026-10-06 01:48:25    AVAX $11.3534  spread=1.90%  qty=0.266000",
+        "2026-10-06 01:48:25    AVAX momentum=0.238%  pnl=0.67%",
+        "2026-10-06 01:48:25  State saved. daily_total=$0.00"
       ],
       "pnl_last_30": []
     }
