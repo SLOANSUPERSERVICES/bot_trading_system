@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T23:40:44.109531+00:00",
+  "generated_at": "2026-10-06T23:45:46.084423+00:00",
   "summary": {
     "total_pnl": -0.1511,
     "total_wins": 49,
@@ -22,17 +22,17 @@
       "last_action": "HOLDING BTC",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-06 18:35:36  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-06 18:35:40    POSITION: BTC qty=0.00011600 avg=$86465.5172 price=$85426.8247 pnl=-1.201% tier=0",
         "2026-10-06 18:40:40  ============================================================",
         "2026-10-06 18:40:40  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-06 18:40:43    POSITION: BTC qty=0.00011600 avg=$86465.5172 price=$85504.6773 pnl=-1.111% tier=0"
+        "2026-10-06 18:40:43    POSITION: BTC qty=0.00011600 avg=$86465.5172 price=$85504.6773 pnl=-1.111% tier=0",
+        "2026-10-06 18:45:43  ============================================================",
+        "2026-10-06 18:45:43  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-06T19:37:50.176741-04:00",
+      "ts": "2026-10-06T19:43:21.965161-04:00",
       "session_pnl": 0.0293,
       "daily_total": 30.0,
       "total_value": 0.0,
@@ -95,33 +95,43 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-06T18:37:45.638514-05:00",
+      "ts": "2026-10-06T18:42:52.056418-05:00",
       "session_pnl": -0.1241,
-      "daily_total": 3.0,
-      "total_value": 3.0068,
-      "trades": 19,
+      "daily_total": 6.0,
+      "total_value": 1.4983,
+      "trades": 20,
       "wins": 30,
       "losses": 18,
       "win_rate": 62.5,
-      "last_action": "PARTIAL AVAX",
+      "last_action": "BUY AVAX",
       "open_positions": [
         {
           "sym": "LINK",
           "qty": 0.10735,
           "avg": 13.972986,
-          "price": 13.9537,
-          "value": 1.4979,
-          "pnl_pct": -0.138,
+          "price": 13.9573,
+          "value": 1.4983,
+          "pnl_pct": -0.112,
           "last_action": "buy",
           "budget_left": 10.0
+        },
+        {
+          "sym": "AVAX",
+          "qty": 0.2555,
+          "avg": 11.741683,
+          "price": 11.6239,
+          "value": 0.0,
+          "pnl_pct": 0,
+          "last_action": "buy",
+          "budget_left": 7.0
         }
       ],
       "recent_logs": [
-        "2026-10-06 18:37:45    SELL AVAX error: 'NoneType' object has no attribute 'get'",
-        "2026-10-06 18:37:45    AVAX consensus=1/3",
-        "2026-10-06 18:37:45    BUY AVAX error: 'NoneType' object has no attribute 'get'",
-        "2026-10-06 18:37:45    AVAX buy order had no id \ufffd state NOT updated",
-        "2026-10-06 18:37:45  State saved. daily_total=$3.00"
+        "2026-10-06 18:42:48    AVAX consensus=1/3",
+        "2026-10-06 18:42:48  \u001b[36m  BUY AVAX $3.00  [mom=0.385%]  order_id=6ac58778\ufffd",
+        "2026-10-06 18:42:48    Order 6ac58778\ufffd state=unconfirmed",
+        "2026-10-06 18:42:52    Order 6ac58778\ufffd state=filled",
+        "2026-10-06 18:42:52  State saved. daily_total=$6.00"
       ],
       "pnl_last_30": []
     }
