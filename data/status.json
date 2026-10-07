@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:29:34.127791+00:00",
+  "generated_at": "2026-10-07T09:34:36.457940+00:00",
   "summary": {
     "total_pnl": -0.1472,
     "total_wins": 51,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-07T04:27:29.036281-05:00",
+      "ts": "2026-10-07T04:32:32.486811-05:00",
       "session_pnl": 0.0,
       "daily_total": 0,
       "total_value": 10.0,
@@ -22,20 +22,20 @@
       "last_action": "HOLDING ETH",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-07 04:22:22  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-07 04:22:25    POSITION: ETH qty=0.00379800 avg=$2632.9647 price=$2603.8251 pnl=-1.107% tier=0",
-        "2026-10-07 04:27:25  ============================================================",
         "2026-10-07 04:27:25  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-07 04:27:29    POSITION: ETH qty=0.00379800 avg=$2632.9647 price=$2604.9144 pnl=-1.065% tier=0"
+        "2026-10-07 04:27:29    POSITION: ETH qty=0.00379800 avg=$2632.9647 price=$2604.9144 pnl=-1.065% tier=0",
+        "2026-10-07 04:32:29  ============================================================",
+        "2026-10-07 04:32:29  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
+        "2026-10-07 04:32:32    POSITION: ETH qty=0.00379800 avg=$2632.9647 price=$2601.8559 pnl=-1.182% tier=0"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-07T05:28:09.469196-04:00",
+      "ts": "2026-10-07T05:33:41.149934-04:00",
       "session_pnl": 0.0332,
       "daily_total": 9.0,
-      "total_value": 5.9864,
+      "total_value": 5.9754,
       "trades": 4,
       "wins": 11,
       "losses": 6,
@@ -46,9 +46,9 @@
           "sym": "BTC",
           "qty": 3.568455977345466e-05,
           "avg": 84069.973654,
-          "price": 83809.3045,
-          "value": 2.9907,
-          "pnl_pct": -0.31,
+          "price": 83740.6111,
+          "value": 2.9882,
+          "pnl_pct": -0.39,
           "last_action": "buy",
           "budget_left": 7.0
         },
@@ -56,9 +56,9 @@
           "sym": "ETH",
           "qty": 0.0011500262698314811,
           "avg": 2608.636062,
-          "price": 2604.8992,
-          "value": 2.9957,
-          "pnl_pct": -0.14,
+          "price": 2597.528,
+          "value": 2.9872,
+          "pnl_pct": -0.43,
           "last_action": "buy",
           "budget_left": 7.0
         }
@@ -116,10 +116,10 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-07T04:27:57.928872-05:00",
+      "ts": "2026-10-07T04:33:00.449299-05:00",
       "session_pnl": -0.1241,
       "daily_total": 12.0,
-      "total_value": 5.9103,
+      "total_value": 5.9047,
       "trades": 25,
       "wins": 31,
       "losses": 19,
@@ -130,29 +130,19 @@
           "sym": "LINK",
           "qty": 0.2182,
           "avg": 13.748854,
-          "price": 13.6647,
-          "value": 2.9816,
-          "pnl_pct": -0.612,
+          "price": 13.6655,
+          "value": 2.9818,
+          "pnl_pct": -0.606,
           "last_action": "buy",
           "budget_left": 7.0
-        },
-        {
-          "sym": "AVAX",
-          "qty": 0.2632,
-          "avg": 11.398176,
-          "price": 11.1271,
-          "value": 2.9287,
-          "pnl_pct": -2.378,
-          "last_action": "buy",
-          "budget_left": 1.0
         }
       ],
       "recent_logs": [
-        "2026-10-07 04:27:57    LINK $13.6647  spread=1.92%  qty=0.218200",
-        "2026-10-07 04:27:57    LINK momentum=-0.388%  pnl=-0.61%",
-        "2026-10-07 04:27:57    AVAX $11.1271  spread=1.91%  qty=0.263200",
-        "2026-10-07 04:27:57    AVAX momentum=-0.873%  pnl=-2.38%",
-        "2026-10-07 04:27:57  State saved. daily_total=$12.00"
+        "2026-10-07 04:32:59    LINK momentum=-0.395%  pnl=-0.61%",
+        "2026-10-07 04:32:59    AVAX $11.1052  spread=1.91%  qty=0.263200",
+        "2026-10-07 04:33:00    AVAX momentum=-1.444%  pnl=-2.57%",
+        "2026-10-07 04:33:00    SELL AVAX error: 'NoneType' object has no attribute 'get'",
+        "2026-10-07 04:33:00  State saved. daily_total=$12.00"
       ],
       "pnl_last_30": []
     }
