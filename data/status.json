@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-07T02:01:40.443546+00:00",
+  "generated_at": "2026-10-07T02:06:42.379009+00:00",
   "summary": {
     "total_pnl": -0.3397,
     "total_wins": 49,
-    "total_losses": 27,
+    "total_losses": 28,
     "active_bots": 4,
     "paused": false,
     "sell_all": false
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-06T20:57:22.825361-05:00",
+      "ts": "2026-10-06T21:02:27.813323-05:00",
       "session_pnl": -0.1886,
       "daily_total": 0,
       "total_value": 0,
@@ -22,17 +22,17 @@
       "last_action": null,
       "open_positions": [],
       "recent_logs": [
-        "2026-10-06 20:52:19    POSITION: BTC qty=0.00011600 avg=$86465.5172 price=$85219.7817 pnl=-1.441% tier=0",
-        "2026-10-06 20:57:19  ============================================================",
-        "2026-10-06 20:57:19  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-06 20:57:22    POSITION: BTC qty=0.00011600 avg=$86465.5172 price=$84839.8604 pnl=-1.880% tier=0",
-        "2026-10-06 20:57:22  \u001b[33m  SELL BTC 0.00011600  [stop-loss]  id=6ac5a702\ufffd"
+        "2026-10-06 21:02:27    LINK score=4/6  RSI=20.1  BB=[13.7746, 13.9292, 14.0838]  mom=-2.118%  vol=1.0x  spread=1.966%  consensus=0",
+        "2026-10-06 21:02:27  \u001b[36m  BEST ENTRY: ETH score=4/6 @ $2633.2556",
+        "2026-10-06 21:02:27    BUY ETH error: 'NoneType' object has no attribute 'get'",
+        "2026-10-06 21:02:27    ETH buy order had no id",
+        "2026-10-06 21:02:27    daily_pnl=$-0.1886"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-06T21:57:09.792377-04:00",
+      "ts": "2026-10-06T22:02:41.518405-04:00",
       "session_pnl": 0.0293,
       "daily_total": 30.0,
       "total_value": 0.0,
@@ -95,33 +95,22 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-06T20:59:01.618020-05:00",
+      "ts": "2026-10-06T21:04:04.697016-05:00",
       "session_pnl": -0.1241,
       "daily_total": 6.0,
-      "total_value": 1.4732,
+      "total_value": 1.4404,
       "trades": 20,
       "wins": 30,
-      "losses": 18,
-      "win_rate": 62.5,
+      "losses": 19,
+      "win_rate": 61.2,
       "last_action": "BUY AVAX",
-      "open_positions": [
-        {
-          "sym": "LINK",
-          "qty": 0.10735,
-          "avg": 13.972986,
-          "price": 13.7236,
-          "value": 1.4732,
-          "pnl_pct": -1.785,
-          "last_action": "buy",
-          "budget_left": 10.0
-        }
-      ],
+      "open_positions": [],
       "recent_logs": [
-        "2026-10-06 20:59:00    LINK $13.7236  spread=1.94%  qty=0.107350",
-        "2026-10-06 20:59:01    LINK momentum=-1.344%  pnl=-1.78%",
-        "2026-10-06 20:59:01    AVAX $11.3699  spread=1.92%  qty=0.000000",
-        "2026-10-06 20:59:01    AVAX momentum=-0.881%  pnl=0.00%",
-        "2026-10-06 20:59:01  State saved. daily_total=$6.00"
+        "2026-10-06 21:04:03    LINK momentum=-2.118%  pnl=-3.98%",
+        "2026-10-06 21:04:04  \u001b[33m  SELL LINK 0.107350  [stop-loss]  order_id=6ac5a893\ufffd",
+        "2026-10-06 21:04:04    AVAX $11.0906  spread=1.92%  qty=0.000000",
+        "2026-10-06 21:04:04    AVAX momentum=-2.259%  pnl=0.00%",
+        "2026-10-06 21:04:04  State saved. daily_total=$6.00"
       ],
       "pnl_last_30": []
     }
