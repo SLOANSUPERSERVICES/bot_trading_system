@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:27:54.175603+00:00",
+  "generated_at": "2026-10-07T17:32:56.252082+00:00",
   "summary": {
     "total_pnl": -0.3853,
     "total_wins": 52,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-07T12:23:01.000492-05:00",
+      "ts": "2026-10-07T12:28:04.546819-05:00",
       "session_pnl": -0.1935,
       "daily_total": 0,
       "total_value": 10.0,
@@ -22,17 +22,17 @@
       "last_action": "HOLDING BTC",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-07 12:17:54  ALPHA cycle \ufffd daily_pnl=$-0.1935  goal_reached=False",
-        "2026-10-07 12:17:57    POSITION: BTC qty=0.00011900 avg=$84117.6471 price=$83451.1498 pnl=-0.792% tier=0",
-        "2026-10-07 12:22:57  ============================================================",
         "2026-10-07 12:22:57  ALPHA cycle \ufffd daily_pnl=$-0.1935  goal_reached=False",
-        "2026-10-07 12:23:01    POSITION: BTC qty=0.00011900 avg=$84117.6471 price=$83450.6237 pnl=-0.793% tier=0"
+        "2026-10-07 12:23:01    POSITION: BTC qty=0.00011900 avg=$84117.6471 price=$83450.6237 pnl=-0.793% tier=0",
+        "2026-10-07 12:28:01  ============================================================",
+        "2026-10-07 12:28:01  ALPHA cycle \ufffd daily_pnl=$-0.1935  goal_reached=False",
+        "2026-10-07 12:28:04    POSITION: BTC qty=0.00011900 avg=$84117.6471 price=$83194.7395 pnl=-1.097% tier=0"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-07T13:23:07.176136-04:00",
+      "ts": "2026-10-07T13:28:39.716654-04:00",
       "session_pnl": -0.0114,
       "daily_total": 15.0,
       "total_value": 0.0,
@@ -43,11 +43,11 @@
       "last_action": "SELL ETH",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-07 07:47:05,436  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2568.96",
-        "2026-10-07 07:52:37,534  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2567.71",
         "2026-10-07 08:14:15,020  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2561.9",
         "2026-10-07 08:51:58,194  WARNING  \u001b[31mSELL ETH 0.00117195 \ufffd MID BAND $2565.08 (mean reversion)",
-        "2026-10-07 10:29:29,321  WARNING  \u001b[31mSELL BTC 3.595e-05 \ufffd MID BAND $83007.52 (mean reversion)"
+        "2026-10-07 10:29:29,321  WARNING  \u001b[31mSELL BTC 3.595e-05 \ufffd MID BAND $83007.52 (mean reversion)",
+        "2026-10-07 12:28:38,480  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $83277.22",
+        "2026-10-07 12:28:39,364  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2561.96"
       ],
       "pnl_last_30": []
     },
@@ -95,10 +95,10 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-07T12:26:51.900365-05:00",
+      "ts": "2026-10-07T12:31:54.256193-05:00",
       "session_pnl": -0.1241,
       "daily_total": 15.0,
-      "total_value": 2.9459,
+      "total_value": 2.9449,
       "trades": 26,
       "wins": 31,
       "losses": 20,
@@ -109,19 +109,19 @@
           "sym": "LINK",
           "qty": 0.2201,
           "avg": 13.630168,
-          "price": 13.3844,
-          "value": 2.9459,
-          "pnl_pct": -1.803,
+          "price": 13.38,
+          "value": 2.9449,
+          "pnl_pct": -1.836,
           "last_action": "buy",
           "budget_left": 4.0
         }
       ],
       "recent_logs": [
-        "2026-10-07 12:26:51    LINK $13.3844  spread=1.93%  qty=0.220100",
-        "2026-10-07 12:26:51    LINK momentum=-0.044%  pnl=-1.80%",
-        "2026-10-07 12:26:51    AVAX $11.2133  spread=1.91%  qty=0.000000",
-        "2026-10-07 12:26:51    AVAX momentum=-0.923%  pnl=0.00%",
-        "2026-10-07 12:26:51  State saved. daily_total=$15.00"
+        "2026-10-07 12:31:53    LINK $13.3800  spread=1.92%  qty=0.220100",
+        "2026-10-07 12:31:53    LINK momentum=-0.422%  pnl=-1.84%",
+        "2026-10-07 12:31:53    AVAX $11.2612  spread=1.91%  qty=0.000000",
+        "2026-10-07 12:31:54    AVAX momentum=-0.092%  pnl=0.00%",
+        "2026-10-07 12:31:54  State saved. daily_total=$15.00"
       ],
       "pnl_last_30": []
     }
