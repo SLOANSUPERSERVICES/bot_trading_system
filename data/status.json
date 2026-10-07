@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:30:48.446409+00:00",
+  "generated_at": "2026-10-07T12:35:50.290172+00:00",
   "summary": {
     "total_pnl": -0.1903,
     "total_wins": 51,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-07T07:29:34.262589-05:00",
+      "ts": "2026-10-07T07:34:37.670091-05:00",
       "session_pnl": 0.0,
       "daily_total": 0,
       "total_value": 10.0,
@@ -22,32 +22,43 @@
       "last_action": "HOLDING ETH",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-07 07:24:27  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-07 07:24:30    POSITION: ETH qty=0.00383000 avg=$2613.5770 price=$2577.7538 pnl=-1.371% tier=0",
-        "2026-10-07 07:29:30  ============================================================",
         "2026-10-07 07:29:30  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-07 07:29:34    POSITION: ETH qty=0.00383000 avg=$2613.5770 price=$2572.1886 pnl=-1.584% tier=0"
+        "2026-10-07 07:29:34    POSITION: ETH qty=0.00383000 avg=$2613.5770 price=$2572.1886 pnl=-1.584% tier=0",
+        "2026-10-07 07:34:34  ============================================================",
+        "2026-10-07 07:34:34  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
+        "2026-10-07 07:34:37    POSITION: ETH qty=0.00383000 avg=$2613.5770 price=$2575.1932 pnl=-1.469% tier=0"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-07T08:25:27.895057-04:00",
+      "ts": "2026-10-07T08:31:00.192688-04:00",
       "session_pnl": -0.0099,
-      "daily_total": 9.0,
-      "total_value": 0.0,
-      "trades": 6,
+      "daily_total": 12.0,
+      "total_value": 3.0,
+      "trades": 7,
       "wins": 11,
       "losses": 8,
       "win_rate": 57.9,
       "last_action": "SELL ETH",
-      "open_positions": [],
+      "open_positions": [
+        {
+          "sym": "BTC",
+          "qty": 3.595254228132683e-05,
+          "avg": 83443.334174,
+          "price": 83443.3342,
+          "value": 3.0,
+          "pnl_pct": 0.0,
+          "last_action": "buy",
+          "budget_left": 7.0
+        }
+      ],
       "recent_logs": [
-        "2026-10-07 05:44:03,510  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $83640.51",
         "2026-10-07 06:32:08,522  ERROR  Price BTC: HTTPSConnectionPool(host='api.robinhood.com', port=443): Read timed out. (read timeout=None)",
         "2026-10-07 06:58:48,369  WARNING  \u001b[31mSELL ETH 0.00115003 \ufffd MID BAND $2576.27 (mean reversion)",
         "2026-10-07 07:19:54,936  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $83534.75",
-        "2026-10-07 07:25:27,035  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $83502.19"
+        "2026-10-07 07:25:27,035  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $83502.19",
+        "2026-10-07 07:30:59,122  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $83462.52"
       ],
       "pnl_last_30": []
     },
@@ -95,7 +106,7 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-07T07:29:24.555577-05:00",
+      "ts": "2026-10-07T07:34:26.901118-05:00",
       "session_pnl": -0.1241,
       "daily_total": 12.0,
       "total_value": 0.0,
@@ -106,11 +117,11 @@
       "last_action": "BUY AVAX",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-07 07:29:24    LINK momentum=-0.503%  pnl=0.00%",
-        "2026-10-07 07:29:24    LINK in cooldown until 08:23",
-        "2026-10-07 07:29:24    AVAX $11.0084  spread=1.91%  qty=0.000000",
-        "2026-10-07 07:29:24    AVAX momentum=0.026%  pnl=0.00%",
-        "2026-10-07 07:29:24  State saved. daily_total=$12.00"
+        "2026-10-07 07:34:26    LINK momentum=-0.698%  pnl=0.00%",
+        "2026-10-07 07:34:26    LINK in cooldown until 08:23",
+        "2026-10-07 07:34:26    AVAX $11.0384  spread=1.91%  qty=0.000000",
+        "2026-10-07 07:34:26    AVAX momentum=0.174%  pnl=0.00%",
+        "2026-10-07 07:34:26  State saved. daily_total=$12.00"
       ],
       "pnl_last_30": []
     }
