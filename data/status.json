@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T02:06:24.394755+00:00",
+  "generated_at": "2026-10-08T02:11:26.210615+00:00",
   "summary": {
     "total_pnl": -0.3625,
     "total_wins": 56,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-07T21:03:41.207809-05:00",
+      "ts": "2026-10-07T21:08:44.559115-05:00",
       "session_pnl": -0.1935,
       "daily_total": 0,
       "total_value": 10.0,
@@ -22,17 +22,17 @@
       "last_action": "HOLDING BTC",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-07 20:58:34  ALPHA cycle \ufffd daily_pnl=$-0.1935  goal_reached=False",
-        "2026-10-07 20:58:37    POSITION: BTC qty=0.00011900 avg=$84117.6471 price=$83063.8773 pnl=-1.253% tier=0",
-        "2026-10-07 21:03:37  ============================================================",
         "2026-10-07 21:03:37  ALPHA cycle \ufffd daily_pnl=$-0.1935  goal_reached=False",
-        "2026-10-07 21:03:41    POSITION: BTC qty=0.00011900 avg=$84117.6471 price=$83082.7447 pnl=-1.230% tier=0"
+        "2026-10-07 21:03:41    POSITION: BTC qty=0.00011900 avg=$84117.6471 price=$83082.7447 pnl=-1.230% tier=0",
+        "2026-10-07 21:08:41  ============================================================",
+        "2026-10-07 21:08:41  ALPHA cycle \ufffd daily_pnl=$-0.1935  goal_reached=False",
+        "2026-10-07 21:08:44    POSITION: BTC qty=0.00011900 avg=$84117.6471 price=$82989.6195 pnl=-1.341% tier=0"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-07T22:06:20.405849-04:00",
+      "ts": "2026-10-07T22:11:22.953630-04:00",
       "session_pnl": 0.0114,
       "daily_total": 27.0,
       "total_value": 0.0,
@@ -43,11 +43,11 @@
       "last_action": "SELL ETH",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-07 15:44:32,622  ERROR  Price BTC: HTTPSConnectionPool(host='nummus.robinhood.com', port=443): Read timed out. (read timeout=None)",
-        "2026-10-07 16:44:52,335  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $83178.56",
         "2026-10-07 16:44:53,683  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2565.3",
         "2026-10-07 17:26:37,847  WARNING  \u001b[31mSELL BTC 3.607e-05 \ufffd MID BAND $83227.79 (mean reversion)",
-        "2026-10-07 17:26:38,527  WARNING  \u001b[31mSELL ETH 0.00116958 \ufffd MID BAND $2567.09 (mean reversion)"
+        "2026-10-07 17:26:38,527  WARNING  \u001b[31mSELL ETH 0.00116958 \ufffd MID BAND $2567.09 (mean reversion)",
+        "2026-10-07 21:11:21,624  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $82951.24",
+        "2026-10-07 21:11:22,575  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2573.16"
       ],
       "pnl_last_30": []
     },
@@ -95,10 +95,10 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-07T21:06:07.153724-05:00",
+      "ts": "2026-10-07T21:11:09.462956-05:00",
       "session_pnl": -0.1241,
       "daily_total": 18.0,
-      "total_value": 2.9539,
+      "total_value": 2.9474,
       "trades": 27,
       "wins": 31,
       "losses": 21,
@@ -109,19 +109,19 @@
           "sym": "LINK",
           "qty": 0.2227,
           "avg": 13.471037,
-          "price": 13.2642,
-          "value": 2.9539,
-          "pnl_pct": -1.536,
+          "price": 13.2348,
+          "value": 2.9474,
+          "pnl_pct": -1.754,
           "last_action": "buy",
           "budget_left": 1.0
         }
       ],
       "recent_logs": [
-        "2026-10-07 21:06:06    LINK $13.2642  spread=1.92%  qty=0.222700",
-        "2026-10-07 21:06:06    LINK momentum=-0.493%  pnl=-1.54%",
-        "2026-10-07 21:06:06    AVAX $11.0685  spread=1.91%  qty=0.000000",
-        "2026-10-07 21:06:07    AVAX momentum=-0.077%  pnl=0.00%",
-        "2026-10-07 21:06:07  State saved. daily_total=$18.00"
+        "2026-10-07 21:11:08    LINK $13.2348  spread=1.93%  qty=0.222700",
+        "2026-10-07 21:11:08    LINK momentum=-0.726%  pnl=-1.75%",
+        "2026-10-07 21:11:09    AVAX $11.0645  spread=1.90%  qty=0.000000",
+        "2026-10-07 21:11:09    AVAX momentum=-0.519%  pnl=0.00%",
+        "2026-10-07 21:11:09  State saved. daily_total=$18.00"
       ],
       "pnl_last_30": []
     }
