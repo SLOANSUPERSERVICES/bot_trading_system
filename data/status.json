@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:25:51.490032+00:00",
+  "generated_at": "2026-10-08T13:30:53.410597+00:00",
   "summary": {
     "total_pnl": -0.1563,
     "total_wins": 62,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-08T08:21:35.316589-05:00",
+      "ts": "2026-10-08T08:26:38.691443-05:00",
       "session_pnl": 0.0,
       "daily_total": 0,
       "total_value": 10.0,
@@ -22,17 +22,17 @@
       "last_action": "HOLDING BTC",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-08 08:16:29    BTC quote error: HTTPSConnectionPool(host='nummus.robinhood.com', port=443): Read timed out. (read timeout=None)",
-        "2026-10-08 08:16:32    Can't get BTC quote \ufffd holding",
-        "2026-10-08 08:21:32  ============================================================",
         "2026-10-08 08:21:32  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-08 08:21:35    POSITION: BTC qty=0.00012000 avg=$83250.0000 price=$82530.9179 pnl=-0.864% tier=0"
+        "2026-10-08 08:21:35    POSITION: BTC qty=0.00012000 avg=$83250.0000 price=$82530.9179 pnl=-0.864% tier=0",
+        "2026-10-08 08:26:35  ============================================================",
+        "2026-10-08 08:26:35  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
+        "2026-10-08 08:26:38    POSITION: BTC qty=0.00012000 avg=$83250.0000 price=$82427.1108 pnl=-0.988% tier=0"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-08T09:22:26.812598-04:00",
+      "ts": "2026-10-08T09:27:58.567703-04:00",
       "session_pnl": 0.0241,
       "daily_total": 21.0,
       "total_value": 0.0,
@@ -95,7 +95,7 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-08T08:21:37.923505-05:00",
+      "ts": "2026-10-08T08:26:40.520653-05:00",
       "session_pnl": -0.1241,
       "daily_total": 9.0,
       "total_value": 0.0,
@@ -106,11 +106,11 @@
       "last_action": "STOP AVAX",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-08 08:21:37    LINK momentum=-0.099%  pnl=0.00%",
-        "2026-10-08 08:21:37    AVAX $10.6155  spread=1.90%  qty=0.000000",
-        "2026-10-08 08:21:37    AVAX momentum=-0.730%  pnl=0.00%",
-        "2026-10-08 08:21:37    AVAX in cooldown until 09:06",
-        "2026-10-08 08:21:37  State saved. daily_total=$9.00"
+        "2026-10-08 08:26:40    LINK momentum=-0.275%  pnl=0.00%",
+        "2026-10-08 08:26:40    AVAX $10.5984  spread=1.91%  qty=0.000000",
+        "2026-10-08 08:26:40    AVAX momentum=-0.662%  pnl=0.00%",
+        "2026-10-08 08:26:40    AVAX in cooldown until 09:06",
+        "2026-10-08 08:26:40  State saved. daily_total=$9.00"
       ],
       "pnl_last_30": []
     }
