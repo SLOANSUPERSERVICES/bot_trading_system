@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:27:21.023874+00:00",
+  "generated_at": "2026-10-10T16:32:22.863904+00:00",
   "summary": {
     "total_pnl": -0.1384,
     "total_wins": 77,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-10T11:25:37.878880-05:00",
+      "ts": "2026-10-10T11:30:41.217892-05:00",
       "session_pnl": 0.0,
       "daily_total": 0,
       "total_value": 10.0,
@@ -22,17 +22,17 @@
       "last_action": "HOLDING BTC",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-10 11:20:31  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-10 11:20:34    POSITION: BTC qty=0.00012000 avg=$83416.6667 price=$83007.6977 pnl=-0.490% tier=0",
-        "2026-10-10 11:25:34  ============================================================",
         "2026-10-10 11:25:34  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-10 11:25:37    POSITION: BTC qty=0.00012000 avg=$83416.6667 price=$82974.4939 pnl=-0.530% tier=0"
+        "2026-10-10 11:25:37    POSITION: BTC qty=0.00012000 avg=$83416.6667 price=$82974.4939 pnl=-0.530% tier=0",
+        "2026-10-10 11:30:37  ============================================================",
+        "2026-10-10 11:30:37  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
+        "2026-10-10 11:30:41    POSITION: BTC qty=0.00012000 avg=$83416.6667 price=$82943.5678 pnl=-0.567% tier=0"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-10T12:22:37.847807-04:00",
+      "ts": "2026-10-10T12:27:39.567044-04:00",
       "session_pnl": 0.042,
       "daily_total": 6.0,
       "total_value": 0.0,
@@ -127,11 +127,11 @@
         }
       ],
       "recent_logs": [
-        "2026-10-10 11:27:20    LINK $13.0854  spread=1.93%  qty=0.225600",
-        "2026-10-10 11:27:20    LINK momentum=-0.290%  pnl=-1.60%",
-        "2026-10-10 11:27:20    AVAX $10.5091  spread=1.91%  qty=0.281700",
-        "2026-10-10 11:27:20    AVAX momentum=-0.008%  pnl=-1.32%",
-        "2026-10-10 11:27:20  State saved. daily_total=$9.00"
+        "2026-10-10 11:32:20  DEFI cycle \ufffd daily_spent=$9.00/30.00",
+        "2026-10-10 11:32:21    POL $0.1015  spread=0.00%  qty=0.000000",
+        "2026-10-10 11:32:22    POL momentum=-0.803%  pnl=0.00%",
+        "2026-10-10 11:32:22    LINK $13.0811  spread=1.94%  qty=0.225600",
+        "2026-10-10 11:32:22    LINK momentum=-0.533%  pnl=-1.63%"
       ],
       "pnl_last_30": []
     }
