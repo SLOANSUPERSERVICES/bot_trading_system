@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:13:53.298762+00:00",
+  "generated_at": "2026-10-12T23:18:55.538493+00:00",
   "summary": {
     "total_pnl": -0.1564,
     "total_wins": 94,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-12T18:13:20.456549-05:00",
+      "ts": "2026-10-12T18:18:24.888316-05:00",
       "session_pnl": -0.0412,
       "daily_total": 0,
       "total_value": 0,
@@ -22,20 +22,20 @@
       "last_action": null,
       "open_positions": [],
       "recent_logs": [
-        "2026-10-12 18:13:20    LINK score=4/6  RSI=36.5  BB=[12.7097, 12.8467, 12.9836]  mom=-0.829%  vol=1.0x  spread=1.899%  consensus=0",
-        "2026-10-12 18:13:20  \u001b[36m  BEST ENTRY: ETH score=4/6 @ $2457.0670",
-        "2026-10-12 18:13:20    BUY ETH error: 'NoneType' object has no attribute 'get'",
-        "2026-10-12 18:13:20    ETH buy order had no id",
-        "2026-10-12 18:13:20    daily_pnl=$-0.0412"
+        "2026-10-12 18:18:24    SOL score=2/6  RSI=30.3  BB=[105.9433, 106.8707, 107.7981]  mom=-0.83%  vol=1.0x  spread=1.873%  consensus=0",
+        "2026-10-12 18:18:24    AVAX score=2/6  RSI=30.9  BB=[10.2001, 10.334, 10.468]  mom=-1.253%  vol=1.0x  spread=1.899%  consensus=0",
+        "2026-10-12 18:18:24    LINK score=2/6  RSI=33.6  BB=[12.703, 12.8322, 12.9613]  mom=-0.785%  vol=1.0x  spread=1.916%  consensus=0",
+        "2026-10-12 18:18:24    No qualifying entry found this cycle",
+        "2026-10-12 18:18:24    daily_pnl=$-0.0412"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-12T19:09:12.841623-04:00",
+      "ts": "2026-10-12T19:14:33.752075-04:00",
       "session_pnl": 0.0652,
       "daily_total": 27.0,
-      "total_value": 6.0005,
+      "total_value": 5.9946,
       "trades": 16,
       "wins": 48,
       "losses": 22,
@@ -56,19 +56,19 @@
           "sym": "ETH",
           "qty": 0.0012186176013622375,
           "avg": 2461.805899,
-          "price": 2462.1756,
-          "value": 3.0005,
-          "pnl_pct": 0.02,
+          "price": 2457.4045,
+          "value": 2.9946,
+          "pnl_pct": -0.18,
           "last_action": "buy",
           "budget_left": 7.0
         }
       ],
       "recent_logs": [
-        "2026-10-12 16:58:16,192  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2487.37",
         "2026-10-12 17:58:06,849  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $82301.23",
         "2026-10-12 18:03:39,001  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $82201.15",
         "2026-10-12 18:03:39,838  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2470.66",
-        "2026-10-12 18:09:11,594  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $82116.39"
+        "2026-10-12 18:09:11,594  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $82116.39",
+        "2026-10-12 18:14:32,886  ERROR  Price BTC: HTTPSConnectionPool(host='api.robinhood.com', port=443): Read timed out. (read timeout=None)"
       ],
       "pnl_last_30": []
     },
@@ -116,7 +116,7 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-12T18:10:17.968384-05:00",
+      "ts": "2026-10-12T18:15:20.199834-05:00",
       "session_pnl": -0.1241,
       "daily_total": 12.0,
       "total_value": 0.0,
@@ -127,11 +127,11 @@
       "last_action": "BUY AVAX",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-12 18:10:17    LINK $12.7470  spread=1.91%  qty=0.000000",
-        "2026-10-12 18:10:17    LINK momentum=-0.829%  pnl=0.00%",
-        "2026-10-12 18:10:17    AVAX $10.2415  spread=1.90%  qty=0.000000",
-        "2026-10-12 18:10:17    AVAX momentum=-1.267%  pnl=0.00%",
-        "2026-10-12 18:10:17  State saved. daily_total=$12.00"
+        "2026-10-12 18:15:19    LINK $12.7110  spread=1.89%  qty=0.000000",
+        "2026-10-12 18:15:19    LINK momentum=-0.796%  pnl=0.00%",
+        "2026-10-12 18:15:19    AVAX $10.1932  spread=1.88%  qty=0.000000",
+        "2026-10-12 18:15:20    AVAX momentum=-1.253%  pnl=0.00%",
+        "2026-10-12 18:15:20  State saved. daily_total=$12.00"
       ],
       "pnl_last_30": []
     }
