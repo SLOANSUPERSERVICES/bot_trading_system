@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:28:59.396316+00:00",
+  "generated_at": "2026-10-12T23:34:01.498110+00:00",
   "summary": {
     "total_pnl": -0.1564,
     "total_wins": 94,
@@ -11,31 +11,31 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-12T18:28:39.030440-05:00",
+      "ts": "2026-10-12T18:33:47.138091-05:00",
       "session_pnl": -0.0412,
       "daily_total": 0,
-      "total_value": 0,
+      "total_value": 10.0,
       "trades": 0,
       "wins": 2,
       "losses": 3,
       "win_rate": 40.0,
-      "last_action": null,
+      "last_action": "HOLDING SOL",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-12 18:28:35  \u001b[36m  BUY SOL $10.00  id=6acd6d23\ufffd",
-        "2026-10-12 18:28:35    Order 6acd6d23\ufffd state=unconfirmed",
-        "2026-10-12 18:28:39    Order 6acd6d23\ufffd state=rejected",
-        "2026-10-12 18:28:39    SOL buy did NOT fill",
-        "2026-10-12 18:28:39    daily_pnl=$-0.0412"
+        "2026-10-12 18:33:43  \u001b[36m  BEST ENTRY: SOL score=4/6 @ $105.6907",
+        "2026-10-12 18:33:44  \u001b[36m  BUY SOL $10.00  id=6acd6e57\ufffd",
+        "2026-10-12 18:33:44    Order 6acd6e57\ufffd state=unconfirmed",
+        "2026-10-12 18:33:47    Order 6acd6e57\ufffd state=filled",
+        "2026-10-12 18:33:47    daily_pnl=$-0.0412"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-12T19:25:07.210993-04:00",
+      "ts": "2026-10-12T19:30:39.293092-04:00",
       "session_pnl": 0.0652,
       "daily_total": 27.0,
-      "total_value": 5.9971,
+      "total_value": 5.9934,
       "trades": 16,
       "wins": 48,
       "losses": 22,
@@ -46,9 +46,9 @@
           "sym": "BTC",
           "qty": 3.656982448412461e-05,
           "avg": 82034.848193,
-          "price": 81997.5413,
-          "value": 2.9986,
-          "pnl_pct": -0.05,
+          "price": 81974.6672,
+          "value": 2.9978,
+          "pnl_pct": -0.07,
           "last_action": "buy",
           "budget_left": 7.0
         },
@@ -56,9 +56,9 @@
           "sym": "ETH",
           "qty": 0.0012186176013622375,
           "avg": 2461.805899,
-          "price": 2460.5629,
-          "value": 2.9985,
-          "pnl_pct": -0.05,
+          "price": 2458.2045,
+          "value": 2.9956,
+          "pnl_pct": -0.15,
           "last_action": "buy",
           "budget_left": 7.0
         }
@@ -116,7 +116,7 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-12T18:25:25.056224-05:00",
+      "ts": "2026-10-12T18:30:27.930012-05:00",
       "session_pnl": -0.1241,
       "daily_total": 12.0,
       "total_value": 0.0,
@@ -127,11 +127,11 @@
       "last_action": "BUY AVAX",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-12 18:25:24    LINK $12.7227  spread=1.91%  qty=0.000000",
-        "2026-10-12 18:25:24    LINK momentum=-0.804%  pnl=0.00%",
-        "2026-10-12 18:25:24    AVAX $10.1969  spread=1.90%  qty=0.000000",
-        "2026-10-12 18:25:25    AVAX momentum=-1.292%  pnl=0.00%",
-        "2026-10-12 18:25:25  State saved. daily_total=$12.00"
+        "2026-10-12 18:30:26    LINK $12.6998  spread=1.91%  qty=0.000000",
+        "2026-10-12 18:30:27    LINK momentum=-1.247%  pnl=0.00%",
+        "2026-10-12 18:30:27    AVAX $10.1967  spread=1.91%  qty=0.000000",
+        "2026-10-12 18:30:27    AVAX momentum=-1.394%  pnl=0.00%",
+        "2026-10-12 18:30:27  State saved. daily_total=$12.00"
       ],
       "pnl_last_30": []
     }
