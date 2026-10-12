@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:46:43.900742+00:00",
+  "generated_at": "2026-10-12T17:51:45.890804+00:00",
   "summary": {
     "total_pnl": -0.0861,
     "total_wins": 94,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-12T12:44:00.443256-05:00",
+      "ts": "2026-10-12T12:49:23.353001-05:00",
       "session_pnl": 0.0134,
       "daily_total": 0,
       "total_value": 10.0,
@@ -22,11 +22,11 @@
       "last_action": "HOLDING BTC",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-12 12:38:51  ALPHA cycle \ufffd daily_pnl=$0.0134  goal_reached=False",
-        "2026-10-12 12:38:56    POSITION: BTC qty=0.00003609 avg=$83416.6667 price=$82346.2993 pnl=-1.283% tier=1",
-        "2026-10-12 12:43:56  ============================================================",
-        "2026-10-12 12:43:56  ALPHA cycle \ufffd daily_pnl=$0.0134  goal_reached=False",
-        "2026-10-12 12:44:00    POSITION: BTC qty=0.00003609 avg=$83416.6667 price=$82349.1087 pnl=-1.280% tier=1"
+        "2026-10-12 12:44:00    POSITION: BTC qty=0.00003609 avg=$83416.6667 price=$82349.1087 pnl=-1.280% tier=1",
+        "2026-10-12 12:49:00  ============================================================",
+        "2026-10-12 12:49:00  ALPHA cycle \ufffd daily_pnl=$0.0134  goal_reached=False",
+        "2026-10-12 12:49:20    BTC quote error: HTTPSConnectionPool(host='api.robinhood.com', port=443): Read timed out. (read timeout=None)",
+        "2026-10-12 12:49:23    Can't get BTC quote \ufffd holding"
       ],
       "pnl_last_30": []
     },
@@ -116,7 +116,7 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-12T12:42:15.812968-05:00",
+      "ts": "2026-10-12T12:47:18.061613-05:00",
       "session_pnl": -0.1241,
       "daily_total": 6.0,
       "total_value": 0.0,
@@ -127,11 +127,11 @@
       "last_action": "BUY AVAX",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-12 12:42:14    LINK $12.8725  spread=1.93%  qty=0.000000",
-        "2026-10-12 12:42:15    LINK momentum=-0.887%  pnl=0.00%",
-        "2026-10-12 12:42:15    AVAX $10.4518  spread=1.91%  qty=0.000000",
-        "2026-10-12 12:42:15    AVAX momentum=-1.336%  pnl=0.00%",
-        "2026-10-12 12:42:15  State saved. daily_total=$6.00"
+        "2026-10-12 12:47:17    LINK $12.8858  spread=1.94%  qty=0.000000",
+        "2026-10-12 12:47:17    LINK momentum=-0.597%  pnl=0.00%",
+        "2026-10-12 12:47:17    AVAX $10.4615  spread=1.92%  qty=0.000000",
+        "2026-10-12 12:47:18    AVAX momentum=-1.118%  pnl=0.00%",
+        "2026-10-12 12:47:18  State saved. daily_total=$6.00"
       ],
       "pnl_last_30": []
     }
