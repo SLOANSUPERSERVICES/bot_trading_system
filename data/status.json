@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:01:58.189645+00:00",
+  "generated_at": "2026-10-13T07:07:00.147773+00:00",
   "summary": {
     "total_pnl": -0.1828,
     "total_wins": 95,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-13T02:00:26.071675-05:00",
+      "ts": "2026-10-13T02:05:31.243437-05:00",
       "session_pnl": 0.0,
       "daily_total": 0,
       "total_value": 0,
@@ -22,17 +22,17 @@
       "last_action": null,
       "open_positions": [],
       "recent_logs": [
-        "2026-10-13 02:00:25    SOL score=1/6  RSI=62.9  BB=[107.9451, 108.3244, 108.7036]  mom=0.391%  vol=1.0x  spread=1.893%  consensus=0",
-        "2026-10-13 02:00:25    AVAX score=1/6  RSI=55.2  BB=[10.5186, 10.5529, 10.5872]  mom=0.222%  vol=1.0x  spread=1.923%  consensus=0",
-        "2026-10-13 02:00:26    LINK score=0/6  RSI=53.2  BB=[13.052, 13.0997, 13.1474]  mom=-0.264%  vol=1.0x  spread=1.917%  consensus=0",
-        "2026-10-13 02:00:26    No qualifying entry found this cycle",
-        "2026-10-13 02:00:26    daily_pnl=$0.0000"
+        "2026-10-13 02:05:30    LINK score=3/6  RSI=41.4  BB=[13.0343, 13.0936, 13.1529]  mom=-0.537%  vol=1.0x  spread=1.917%  consensus=0",
+        "2026-10-13 02:05:30  \u001b[36m  BEST ENTRY: AVAX score=3/6 @ $10.4942",
+        "2026-10-13 02:05:31    BUY AVAX error: 'NoneType' object has no attribute 'get'",
+        "2026-10-13 02:05:31    AVAX buy order had no id",
+        "2026-10-13 02:05:31    daily_pnl=$0.0000"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-13T02:58:17.937570-04:00",
+      "ts": "2026-10-13T03:03:19.856337-04:00",
       "session_pnl": -0.0024,
       "daily_total": 0.0,
       "total_value": 0.0,
@@ -95,10 +95,10 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-13T01:59:54.348008-05:00",
+      "ts": "2026-10-13T02:04:57.647285-05:00",
       "session_pnl": -0.1241,
       "daily_total": 6.0,
-      "total_value": 5.9363,
+      "total_value": 5.9076,
       "trades": 54,
       "wins": 36,
       "losses": 23,
@@ -106,32 +106,22 @@
       "last_action": "BUY AVAX",
       "open_positions": [
         {
-          "sym": "LINK",
-          "qty": 0.2269,
-          "avg": 13.221684,
-          "price": 13.0716,
-          "value": 2.966,
-          "pnl_pct": -1.135,
-          "last_action": "buy",
-          "budget_left": 7.0
-        },
-        {
           "sym": "AVAX",
           "qty": 0.2814,
           "avg": 10.660981,
-          "price": 10.5553,
-          "value": 2.9703,
-          "pnl_pct": -0.991,
+          "price": 10.5033,
+          "value": 2.9556,
+          "pnl_pct": -1.479,
           "last_action": "buy",
           "budget_left": 7.0
         }
       ],
       "recent_logs": [
-        "2026-10-13 01:59:53    LINK $13.0716  spread=1.91%  qty=0.226900",
-        "2026-10-13 01:59:53    LINK momentum=-0.625%  pnl=-1.13%",
-        "2026-10-13 01:59:54    AVAX $10.5553  spread=1.92%  qty=0.281400",
-        "2026-10-13 01:59:54    AVAX momentum=-0.114%  pnl=-0.99%",
-        "2026-10-13 01:59:54  State saved. daily_total=$6.00"
+        "2026-10-13 02:04:56    LINK momentum=-0.264%  pnl=-1.60%",
+        "2026-10-13 02:04:57    SELL LINK error: 'NoneType' object has no attribute 'get'",
+        "2026-10-13 02:04:57    AVAX $10.5033  spread=1.91%  qty=0.281400",
+        "2026-10-13 02:04:57    AVAX momentum=0.222%  pnl=-1.48%",
+        "2026-10-13 02:04:57  State saved. daily_total=$6.00"
       ],
       "pnl_last_30": []
     }
