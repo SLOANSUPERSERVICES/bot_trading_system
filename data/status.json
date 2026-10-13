@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T05:36:24.079058+00:00",
+  "generated_at": "2026-10-13T05:41:25.983584+00:00",
   "summary": {
     "total_pnl": -0.1828,
     "total_wins": 95,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-13T00:34:01.893516-05:00",
+      "ts": "2026-10-13T00:39:06.835403-05:00",
       "session_pnl": 0.0,
       "daily_total": 0,
       "total_value": 0,
@@ -22,17 +22,17 @@
       "last_action": null,
       "open_positions": [],
       "recent_logs": [
-        "2026-10-13 00:34:01    SOL score=1/6  RSI=67.9  BB=[107.2636, 107.8798, 108.4959]  mom=0.245%  vol=1.0x  spread=1.883%  consensus=0",
-        "2026-10-13 00:34:01    AVAX score=1/6  RSI=70.9  BB=[10.4613, 10.5284, 10.5955]  mom=0.365%  vol=1.0x  spread=1.918%  consensus=0",
-        "2026-10-13 00:34:01    LINK score=0/6  RSI=72.6  BB=[12.8485, 12.9844, 13.1204]  mom=1.39%  vol=1.0x  spread=1.911%  consensus=0",
-        "2026-10-13 00:34:01    No qualifying entry found this cycle",
-        "2026-10-13 00:34:01    daily_pnl=$0.0000"
+        "2026-10-13 00:39:06    SOL score=1/6  RSI=59.7  BB=[107.3345, 107.9098, 108.4852]  mom=0.038%  vol=1.0x  spread=1.887%  consensus=0",
+        "2026-10-13 00:39:06    AVAX score=0/6  RSI=58.7  BB=[10.473, 10.532, 10.5909]  mom=-0.019%  vol=1.0x  spread=1.923%  consensus=0",
+        "2026-10-13 00:39:06    LINK score=0/6  RSI=68.9  BB=[12.8508, 12.9925, 13.1341]  mom=1.059%  vol=1.0x  spread=1.924%  consensus=0",
+        "2026-10-13 00:39:06    No qualifying entry found this cycle",
+        "2026-10-13 00:39:06    daily_pnl=$0.0000"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-13T01:32:16.316192-04:00",
+      "ts": "2026-10-13T01:37:48.043052-04:00",
       "session_pnl": -0.0024,
       "daily_total": 0.0,
       "total_value": 0.0,
@@ -95,10 +95,10 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-13T00:34:04.197182-05:00",
+      "ts": "2026-10-13T00:39:06.479544-05:00",
       "session_pnl": -0.1241,
       "daily_total": 3.0,
-      "total_value": 5.9793,
+      "total_value": 5.9764,
       "trades": 53,
       "wins": 36,
       "losses": 23,
@@ -109,9 +109,9 @@
           "sym": "LINK",
           "qty": 0.2301,
           "avg": 13.03781,
-          "price": 13.1021,
-          "value": 3.0148,
-          "pnl_pct": 0.493,
+          "price": 13.101,
+          "value": 3.0145,
+          "pnl_pct": 0.485,
           "last_action": "buy",
           "budget_left": 10.0
         },
@@ -119,19 +119,19 @@
           "sym": "AVAX",
           "qty": 0.2814,
           "avg": 10.660981,
-          "price": 10.5348,
-          "value": 2.9645,
-          "pnl_pct": -1.183,
+          "price": 10.5254,
+          "value": 2.9619,
+          "pnl_pct": -1.272,
           "last_action": "buy",
           "budget_left": 7.0
         }
       ],
       "recent_logs": [
-        "2026-10-13 00:34:03    LINK $13.1021  spread=1.91%  qty=0.230100",
-        "2026-10-13 00:34:03    LINK momentum=1.390%  pnl=0.49%",
-        "2026-10-13 00:34:03    AVAX $10.5348  spread=1.92%  qty=0.281400",
-        "2026-10-13 00:34:04    AVAX momentum=0.365%  pnl=-1.18%",
-        "2026-10-13 00:34:04  State saved. daily_total=$3.00"
+        "2026-10-13 00:39:05    LINK $13.1010  spread=1.92%  qty=0.230100",
+        "2026-10-13 00:39:05    LINK momentum=1.059%  pnl=0.48%",
+        "2026-10-13 00:39:06    AVAX $10.5254  spread=1.93%  qty=0.281400",
+        "2026-10-13 00:39:06    AVAX momentum=-0.019%  pnl=-1.27%",
+        "2026-10-13 00:39:06  State saved. daily_total=$3.00"
       ],
       "pnl_last_30": []
     }
