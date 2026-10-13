@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-13T00:04:12.942352+00:00",
+  "generated_at": "2026-10-13T00:09:15.128775+00:00",
   "summary": {
-    "total_pnl": -0.1564,
+    "total_pnl": -0.4412,
     "total_wins": 94,
-    "total_losses": 50,
+    "total_losses": 51,
     "active_bots": 4,
     "paused": false,
     "sell_all": false
@@ -11,22 +11,22 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-12T19:04:07.603527-05:00",
-      "session_pnl": -0.0412,
+      "ts": "2026-10-12T19:09:11.365983-05:00",
+      "session_pnl": -0.326,
       "daily_total": 0,
-      "total_value": 10.0,
+      "total_value": 0,
       "trades": 0,
       "wins": 2,
-      "losses": 3,
-      "win_rate": 40.0,
-      "last_action": "HOLDING SOL",
+      "losses": 4,
+      "win_rate": 33.3,
+      "last_action": null,
       "open_positions": [],
       "recent_logs": [
-        "2026-10-12 18:59:00  ALPHA cycle \ufffd daily_pnl=$-0.0412  goal_reached=False",
-        "2026-10-12 18:59:04    POSITION: SOL qty=0.09370000 avg=$106.7236 price=$105.5918 pnl=-1.061% tier=0",
-        "2026-10-12 19:04:04  ============================================================",
-        "2026-10-12 19:04:04  ALPHA cycle \ufffd daily_pnl=$-0.0412  goal_reached=False",
-        "2026-10-12 19:04:07    POSITION: SOL qty=0.09370000 avg=$106.7236 price=$105.7365 pnl=-0.925% tier=0"
+        "2026-10-12 19:04:07    POSITION: SOL qty=0.09370000 avg=$106.7236 price=$105.7365 pnl=-0.925% tier=0",
+        "2026-10-12 19:09:07  ============================================================",
+        "2026-10-12 19:09:07  ALPHA cycle \ufffd daily_pnl=$-0.0412  goal_reached=False",
+        "2026-10-12 19:09:10    POSITION: SOL qty=0.09370000 avg=$106.7236 price=$103.6839 pnl=-2.848% tier=0",
+        "2026-10-12 19:09:11  \u001b[33m  SELL SOL 0.09370000  [stop-loss]  id=6acd76a7\ufffd"
       ],
       "pnl_last_30": []
     },
@@ -116,7 +116,7 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-12T19:00:42.670195-05:00",
+      "ts": "2026-10-12T19:05:45.367258-05:00",
       "session_pnl": -0.1241,
       "daily_total": 12.0,
       "total_value": 0.0,
@@ -127,11 +127,11 @@
       "last_action": "BUY AVAX",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-12 19:00:41    LINK $12.6019  spread=1.91%  qty=0.000000",
-        "2026-10-12 19:00:42    LINK momentum=-0.572%  pnl=0.00%",
-        "2026-10-12 19:00:42    AVAX $10.1350  spread=1.91%  qty=0.000000",
-        "2026-10-12 19:00:42    AVAX momentum=-0.629%  pnl=0.00%",
-        "2026-10-12 19:00:42  State saved. daily_total=$12.00"
+        "2026-10-12 19:05:44    LINK $12.5018  spread=1.94%  qty=0.000000",
+        "2026-10-12 19:05:44    LINK momentum=-1.745%  pnl=0.00%",
+        "2026-10-12 19:05:45    AVAX $10.1167  spread=1.92%  qty=0.000000",
+        "2026-10-12 19:05:45    AVAX momentum=-1.158%  pnl=0.00%",
+        "2026-10-12 19:05:45  State saved. daily_total=$12.00"
       ],
       "pnl_last_30": []
     }
