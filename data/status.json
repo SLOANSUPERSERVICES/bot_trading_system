@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:35:32.111858+00:00",
+  "generated_at": "2026-10-13T15:40:34.136009+00:00",
   "summary": {
     "total_pnl": -0.1445,
     "total_wins": 97,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-13T10:32:29.871824-05:00",
+      "ts": "2026-10-13T10:37:33.118557-05:00",
       "session_pnl": 0.0282,
       "daily_total": 0,
       "total_value": 10.0,
@@ -22,17 +22,17 @@
       "last_action": "HOLDING SOL",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-13 10:27:23  ALPHA cycle \ufffd daily_pnl=$0.0282  goal_reached=False",
-        "2026-10-13 10:27:26    POSITION: SOL qty=0.06284600 avg=$106.6098 price=$107.6349 pnl=0.962% tier=1",
-        "2026-10-13 10:32:26  ============================================================",
         "2026-10-13 10:32:26  ALPHA cycle \ufffd daily_pnl=$0.0282  goal_reached=False",
-        "2026-10-13 10:32:29    POSITION: SOL qty=0.06284600 avg=$106.6098 price=$107.4503 pnl=0.788% tier=1"
+        "2026-10-13 10:32:29    POSITION: SOL qty=0.06284600 avg=$106.6098 price=$107.4503 pnl=0.788% tier=1",
+        "2026-10-13 10:37:29  ============================================================",
+        "2026-10-13 10:37:29  ALPHA cycle \ufffd daily_pnl=$0.0282  goal_reached=False",
+        "2026-10-13 10:37:33    POSITION: SOL qty=0.06284600 avg=$106.6098 price=$107.0145 pnl=0.380% tier=1"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-13T11:33:56.408590-04:00",
+      "ts": "2026-10-13T11:39:28.828597-04:00",
       "session_pnl": 0.0077,
       "daily_total": 12.0,
       "total_value": 0.0,
@@ -43,11 +43,11 @@
       "last_action": "SELL ETH",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-13 05:29:04,714  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2502.7",
-        "2026-10-13 05:34:36,423  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $83308.96",
         "2026-10-13 05:34:37,938  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2500.23",
         "2026-10-13 06:23:26,035  WARNING  \u001b[31mSELL BTC 3.601e-05 \ufffd MID BAND $83294.72 (mean reversion)",
-        "2026-10-13 06:23:27,093  WARNING  \u001b[31mSELL ETH 0.0012011 \ufffd MID BAND $2498.69 (mean reversion)"
+        "2026-10-13 06:23:27,093  WARNING  \u001b[31mSELL ETH 0.0012011 \ufffd MID BAND $2498.69 (mean reversion)",
+        "2026-10-13 10:39:27,599  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $83401.0",
+        "2026-10-13 10:39:28,471  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2510.45"
       ],
       "pnl_last_30": []
     },
@@ -95,10 +95,10 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-13T10:34:42.139823-05:00",
+      "ts": "2026-10-13T10:39:44.496370-05:00",
       "session_pnl": -0.1241,
       "daily_total": 15.0,
-      "total_value": 2.9862,
+      "total_value": 2.9623,
       "trades": 57,
       "wins": 36,
       "losses": 23,
@@ -109,19 +109,19 @@
           "sym": "AVAX",
           "qty": 0.2896,
           "avg": 10.359116,
-          "price": 10.3114,
-          "value": 2.9862,
-          "pnl_pct": -0.46,
+          "price": 10.229,
+          "value": 2.9623,
+          "pnl_pct": -1.256,
           "last_action": "buy",
           "budget_left": 4.0
         }
       ],
       "recent_logs": [
-        "2026-10-13 10:34:41    LINK $12.9321  spread=1.90%  qty=0.000000",
-        "2026-10-13 10:34:41    LINK momentum=-0.408%  pnl=0.00%",
-        "2026-10-13 10:34:41    AVAX $10.3114  spread=1.92%  qty=0.289600",
-        "2026-10-13 10:34:42    AVAX momentum=-0.242%  pnl=-0.46%",
-        "2026-10-13 10:34:42  State saved. daily_total=$15.00"
+        "2026-10-13 10:39:43    LINK $12.8811  spread=1.90%  qty=0.000000",
+        "2026-10-13 10:39:43    LINK momentum=-0.607%  pnl=0.00%",
+        "2026-10-13 10:39:44    AVAX $10.2290  spread=1.91%  qty=0.289600",
+        "2026-10-13 10:39:44    AVAX momentum=-0.577%  pnl=-1.26%",
+        "2026-10-13 10:39:44  State saved. daily_total=$15.00"
       ],
       "pnl_last_30": []
     }
