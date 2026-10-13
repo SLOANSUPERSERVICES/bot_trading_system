@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T04:56:08.125413+00:00",
+  "generated_at": "2026-10-13T05:01:10.127665+00:00",
   "summary": {
     "total_pnl": -0.3368,
     "total_wins": 95,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-12T23:53:18.928745-05:00",
+      "ts": "2026-10-12T23:58:23.597042-05:00",
       "session_pnl": -0.154,
       "daily_total": 0,
       "total_value": 0,
@@ -22,17 +22,17 @@
       "last_action": null,
       "open_positions": [],
       "recent_logs": [
-        "2026-10-12 23:53:18    SOL score=1/6  RSI=69.3  BB=[106.5463, 107.4188, 108.2913]  mom=0.441%  vol=1.0x  spread=1.897%  consensus=0",
-        "2026-10-12 23:53:18    AVAX score=1/6  RSI=69.0  BB=[10.3753, 10.4742, 10.5732]  mom=0.64%  vol=1.0x  spread=1.916%  consensus=1",
-        "2026-10-12 23:53:18    LINK score=1/6  RSI=63.9  BB=[12.8241, 12.9157, 13.0074]  mom=0.215%  vol=1.0x  spread=1.927%  consensus=0",
-        "2026-10-12 23:53:18    No qualifying entry found this cycle",
-        "2026-10-12 23:53:18    daily_pnl=$-0.1540"
+        "2026-10-12 23:58:23    SOL score=0/6  RSI=71.2  BB=[106.6848, 107.4911, 108.2975]  mom=0.588%  vol=1.0x  spread=1.899%  consensus=0",
+        "2026-10-12 23:58:23    AVAX score=1/6  RSI=70.6  BB=[10.3872, 10.4817, 10.5762]  mom=0.851%  vol=1.0x  spread=1.919%  consensus=1",
+        "2026-10-12 23:58:23    LINK score=1/6  RSI=66.6  BB=[12.8405, 12.9243, 13.0081]  mom=0.422%  vol=1.0x  spread=1.905%  consensus=0",
+        "2026-10-12 23:58:23    No qualifying entry found this cycle",
+        "2026-10-12 23:58:23    daily_pnl=$-0.1540"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-13T00:55:32.224007-04:00",
+      "ts": "2026-10-13T01:00:34.457532-04:00",
       "session_pnl": -0.0024,
       "daily_total": 27.0,
       "total_value": 0.0,
@@ -43,11 +43,11 @@
       "last_action": "STOP ETH",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-12 18:03:39,838  INFO  \u001b[32mBUY ETH $3.0 \ufffd LOWER BB $2470.66",
         "2026-10-12 18:09:11,594  INFO  \u001b[32mBUY BTC $3.0 \ufffd LOWER BB $82116.39",
         "2026-10-12 18:14:32,886  ERROR  Price BTC: HTTPSConnectionPool(host='api.robinhood.com', port=443): Read timed out. (read timeout=None)",
         "2026-10-12 19:09:22,106  WARNING  \u001b[31mSELL ETH 0.00121862 \ufffd STOP $2424.88",
-        "2026-10-12 20:02:40,857  WARNING  \u001b[31mSELL BTC 3.657e-05 \ufffd MID BAND $81459.83 (mean reversion)"
+        "2026-10-12 20:02:40,857  WARNING  \u001b[31mSELL BTC 3.657e-05 \ufffd MID BAND $81459.83 (mean reversion)",
+        "2026-10-13 00:01:04,458  INFO  DAILY RESET \ufffd spent $27.0"
       ],
       "pnl_last_30": []
     },
@@ -95,10 +95,10 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-12T23:53:37.442621-05:00",
+      "ts": "2026-10-12T23:58:40.179324-05:00",
       "session_pnl": -0.1241,
       "daily_total": 18.0,
-      "total_value": 2.9878,
+      "total_value": 2.9941,
       "trades": 52,
       "wins": 36,
       "losses": 23,
@@ -109,19 +109,19 @@
           "sym": "LINK",
           "qty": 0.2301,
           "avg": 13.03781,
-          "price": 12.9848,
-          "value": 2.9878,
-          "pnl_pct": -0.407,
+          "price": 13.0124,
+          "value": 2.9941,
+          "pnl_pct": -0.195,
           "last_action": "buy",
           "budget_left": 1.0
         }
       ],
       "recent_logs": [
-        "2026-10-12 23:53:36    LINK momentum=0.215%  pnl=-0.41%",
-        "2026-10-12 23:53:37    AVAX $10.5325  spread=1.91%  qty=0.000000",
-        "2026-10-12 23:53:37    AVAX momentum=0.640%  pnl=0.00%",
-        "2026-10-12 23:53:37    AVAX consensus=1/3",
-        "2026-10-12 23:53:37  State saved. daily_total=$18.00"
+        "2026-10-12 23:58:39    LINK momentum=0.421%  pnl=-0.20%",
+        "2026-10-12 23:58:39    AVAX $10.5500  spread=1.92%  qty=0.000000",
+        "2026-10-12 23:58:40    AVAX momentum=0.852%  pnl=0.00%",
+        "2026-10-12 23:58:40    AVAX consensus=1/3",
+        "2026-10-12 23:58:40  State saved. daily_total=$18.00"
       ],
       "pnl_last_30": []
     }
