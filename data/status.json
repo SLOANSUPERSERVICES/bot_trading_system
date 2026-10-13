@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:23:46.303514+00:00",
+  "generated_at": "2026-10-13T11:28:48.292716+00:00",
   "summary": {
     "total_pnl": -0.1727,
     "total_wins": 97,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-13T06:19:20.626762-05:00",
+      "ts": "2026-10-13T06:24:23.972717-05:00",
       "session_pnl": 0.0,
       "daily_total": 0,
       "total_value": 10.0,
@@ -22,11 +22,11 @@
       "last_action": "HOLDING SOL",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-13 06:19:16  \u001b[36m  BEST ENTRY: SOL score=4/6 @ $105.5618",
-        "2026-10-13 06:19:17  \u001b[36m  BUY SOL $10.00  id=6ace13b5\ufffd",
-        "2026-10-13 06:19:17    Order 6ace13b5\ufffd state=unconfirmed",
         "2026-10-13 06:19:20    Order 6ace13b5\ufffd state=filled",
-        "2026-10-13 06:19:20    daily_pnl=$0.0000"
+        "2026-10-13 06:19:20    daily_pnl=$0.0000",
+        "2026-10-13 06:24:20  ============================================================",
+        "2026-10-13 06:24:20  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
+        "2026-10-13 06:24:23    POSITION: SOL qty=0.09380000 avg=$106.6098 price=$107.0046 pnl=0.370% tier=0"
       ],
       "pnl_last_30": []
     },
@@ -95,7 +95,7 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-13T06:22:17.793887-05:00",
+      "ts": "2026-10-13T06:27:20.700369-05:00",
       "session_pnl": -0.1241,
       "daily_total": 9.0,
       "total_value": 0.0,
@@ -106,11 +106,11 @@
       "last_action": "BUY AVAX",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-13 06:22:16    LINK $12.8063  spread=1.91%  qty=0.000000",
-        "2026-10-13 06:22:17    LINK momentum=-1.622%  pnl=0.00%",
-        "2026-10-13 06:22:17    AVAX $10.2185  spread=1.89%  qty=0.000000",
-        "2026-10-13 06:22:17    AVAX momentum=-2.131%  pnl=0.00%",
-        "2026-10-13 06:22:17  State saved. daily_total=$9.00"
+        "2026-10-13 06:27:20    AVAX momentum=0.352%  pnl=0.00%",
+        "2026-10-13 06:27:20    AVAX consensus=2/3",
+        "2026-10-13 06:27:20    BUY AVAX error: 'NoneType' object has no attribute 'get'",
+        "2026-10-13 06:27:20    AVAX buy order had no id \ufffd state NOT updated",
+        "2026-10-13 06:27:20  State saved. daily_total=$9.00"
       ],
       "pnl_last_30": []
     }
