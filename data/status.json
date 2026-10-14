@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:27:24.056588+00:00",
+  "generated_at": "2026-10-14T06:32:26.046076+00:00",
   "summary": {
     "total_pnl": -0.1398,
     "total_wins": 102,
@@ -11,7 +11,7 @@
   "bots": [
     {
       "name": "ALPHA",
-      "ts": "2026-10-14T01:23:52.722094-05:00",
+      "ts": "2026-10-14T01:29:16.314954-05:00",
       "session_pnl": 0.0,
       "daily_total": 0,
       "total_value": 10.0,
@@ -22,17 +22,17 @@
       "last_action": "HOLDING SOL",
       "open_positions": [],
       "recent_logs": [
-        "2026-10-14 01:18:44  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-14 01:18:48    POSITION: SOL qty=0.06284600 avg=$106.6098 price=$107.2516 pnl=0.602% tier=1",
-        "2026-10-14 01:23:48  ============================================================",
-        "2026-10-14 01:23:48  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
-        "2026-10-14 01:23:52    POSITION: SOL qty=0.06284600 avg=$106.6098 price=$107.2182 pnl=0.571% tier=1"
+        "2026-10-14 01:23:52    POSITION: SOL qty=0.06284600 avg=$106.6098 price=$107.2182 pnl=0.571% tier=1",
+        "2026-10-14 01:28:52  ============================================================",
+        "2026-10-14 01:28:52  ALPHA cycle \ufffd daily_pnl=$0.0000  goal_reached=False",
+        "2026-10-14 01:29:12    BTC quote error: HTTPSConnectionPool(host='api.robinhood.com', port=443): Read timed out. (read timeout=None)",
+        "2026-10-14 01:29:16    POSITION: SOL qty=0.06284600 avg=$106.6098 price=$107.1471 pnl=0.504% tier=1"
       ],
       "pnl_last_30": []
     },
     {
       "name": "MACRO",
-      "ts": "2026-10-14T02:26:34.727645-04:00",
+      "ts": "2026-10-14T02:32:06.823243-04:00",
       "session_pnl": 0.0406,
       "daily_total": 3.0,
       "total_value": 0.0,
@@ -95,10 +95,10 @@
     },
     {
       "name": "DEFI",
-      "ts": "2026-10-14T01:23:06.449737-05:00",
+      "ts": "2026-10-14T01:28:09.043131-05:00",
       "session_pnl": -0.1241,
       "daily_total": 0.0,
-      "total_value": 2.9545,
+      "total_value": 2.9509,
       "trades": 57,
       "wins": 36,
       "losses": 23,
@@ -109,19 +109,19 @@
           "sym": "AVAX",
           "qty": 0.2896,
           "avg": 10.359116,
-          "price": 10.2022,
-          "value": 2.9545,
-          "pnl_pct": -1.515,
+          "price": 10.1895,
+          "value": 2.9509,
+          "pnl_pct": -1.637,
           "last_action": "buy",
           "budget_left": 10.0
         }
       ],
       "recent_logs": [
-        "2026-10-14 01:23:05    LINK $12.8820  spread=1.93%  qty=0.000000",
-        "2026-10-14 01:23:05    LINK momentum=-0.380%  pnl=0.00%",
-        "2026-10-14 01:23:06    AVAX $10.2022  spread=1.90%  qty=0.289600",
-        "2026-10-14 01:23:06    AVAX momentum=-0.597%  pnl=-1.52%",
-        "2026-10-14 01:23:06  State saved. daily_total=$0.00"
+        "2026-10-14 01:28:08    LINK $12.8606  spread=1.94%  qty=0.000000",
+        "2026-10-14 01:28:08    LINK momentum=-0.460%  pnl=0.00%",
+        "2026-10-14 01:28:08    AVAX $10.1895  spread=1.91%  qty=0.289600",
+        "2026-10-14 01:28:09    AVAX momentum=-0.682%  pnl=-1.64%",
+        "2026-10-14 01:28:09  State saved. daily_total=$0.00"
       ],
       "pnl_last_30": []
     }
